@@ -1,0 +1,581 @@
+#separator:tab
+#html:false
+#tags column:3
+Entschuldigung	mepaakyɛw	A1 Lektion1
+kommen (aus)	fi	A1 Lektion1
+Frau	Ɔbaa	A1 Lektion1
+Herr	Owura	A1 Lektion1
+heißen	wɔfrɛ	A1 Lektion1
+ich	me	A1 Lektion1
+der Name, die Namen	edin, edin ahorow	A1 Lektion1
+das Land, die Länder	ɔman, aman	A1 Lektion1
+Deutschland	Germany	A1 Lektion1
+die Türkei	Turkei	A1 Lektion1
+Syrien	Syria	A1 Lektion1
+Polen	Poland	A1 Lektion1
+Bulgarien	Bulgaria	A1 Lektion1
+Spanien	Spain	A1 Lektion1
+Italien	Italy	A1 Lektion1
+Griechenland	Greece	A1 Lektion1
+Russland	Russia	A1 Lektion1
+Afghanistan	Afghanistan	A1 Lektion1
+der Irak	Iraq	A1 Lektion1
+Eritrea	Eritrea	A1 Lektion1
+die Ukraine	Ukraine	A1 Lektion1
+der Iran	Iran	A1 Lektion1
+du / Sie	wo	A1 Lektion1
+gut	papa	A1 Lektion1
+sehr gut	ɛyɛ pa ara	A1 Lektion1
+schlecht	nyɛ	A1 Lektion1
+super	ɛyɛ pa ara	A1 Lektion1
+es geht	ɛyɛ	A1 Lektion1
+nicht so gut	ɛnyɛ papa saa	A1 Lektion1
+auch	nso	A1 Lektion1
+danke	meda ase	A1 Lektion1
+die Sprache, die Sprachen	kasa no, kasa ahorow no	A1 Lektion1
+sprechen	kasa	A1 Lektion1
+Deutsch	German kasa	A1 Lektion1
+Türkisch	Turkey kasa	A1 Lektion1
+Englisch	Borɔfo	A1 Lektion1
+Dari	Dari kasa	A1 Lektion1
+Polnisch	Polish kasa	A1 Lektion1
+Spanisch	Spanish	A1 Lektion1
+Italienisch	Italia kasa	A1 Lektion1
+Russisch	Russia kasa	A1 Lektion1
+Arabisch	Arabic kasa	A1 Lektion1
+Paschtu	Pashto kasa	A1 Lektion1
+ein bisschen	kakra	A1 Lektion1
+ja / nein	aane / dabi	A1 Lektion1
+Hallo	Hɛlo	A1 Lektion1
+Tschüss	Akyire	A1 Lektion1
+die Familie, die Familien	abusua no, mmusua no	A1 Lektion2
+das Kind, die Kinder	abofra no, mmofra no	A1 Lektion2
+haben (ich habe; du hast; er/sie/es hat; Sie haben)	wɔ (me wɔ; wo wɔ; ɔwɔ)	A1 Lektion2
+wir	yɛn	A1 Lektion2
+ihr	ne	A1 Lektion2
+er	ɔno	A1 Lektion2
+sie	ɔno	A1 Lektion2
+sein (ich bin; du bist; er/sie/es ist; Sie sind)	be (Meyɛ; woyɛ; ɔno/ɔyɛ; wɔyɛ)	A1 Lektion2
+der Mann, die Männer	ɔbarima no, mmarima no	A1 Lektion2
+die Frau, die Frauen	ɔbea no, mmea no	A1 Lektion2
+der Sohn, die Söhne	ɔba no, mmabarima	A1 Lektion2
+die Tochter, die Töchter	ɔbabea no, mmabea no	A1 Lektion2
+die Eltern	awofo no	A1 Lektion2
+der Vater, die Väter	agya no, agyanom	A1 Lektion2
+die Mutter, die Mütter	ɛna no, ɛnanom	A1 Lektion2
+die Schwester, die Schwestern	onuawa no, anuanom mmea no	A1 Lektion2
+der Bruder, die Brüder	onua no, anuanom no	A1 Lektion2
+mein, meine	me, me	A1 Lektion2
+dein, deine	wo, wo deɛ	A1 Lektion2
+Ihr, Ihre	Wo deɛ, wo deɛ	A1 Lektion2
+verheiratet	aware	A1 Lektion2
+ledig	ankonam	A1 Lektion2
+eins	baako	A1 Lektion2
+zwei	mmienu	A1 Lektion2
+drei	mmiɛnsa	A1 Lektion2
+fünf	nnum	A1 Lektion2
+sechs	nsia	A1 Lektion2
+sieben	nson	A1 Lektion2
+neun	nkron	A1 Lektion2
+zehn	edu	A1 Lektion2
+zwölf	dummienu	A1 Lektion2
+sechzehn	dunsia	A1 Lektion2
+siebzehn	dunson	A1 Lektion2
+zwanzig	aduonu	A1 Lektion2
+wohnen (in)	te ase wɔ)	A1 Lektion2
+geschieden	wɔagyae aware	A1 Lektion2
+der Vorname, die Vornamen	edin a edi kan, edin a edi kan	A1 Lektion2
+die Großmutter (Oma), die Großmütter (Omas)	nanabea (Nanabea), nananom (nananom)	A1 Lektion2
+der Großvater (Opa), die Großväter (Opas)	nana (Nana), nananom (Nana)	A1 Lektion2
+die Tante, die Tanten	aunt, auntfoɔ no	A1 Lektion2
+der Onkel, die Onkel	onua barima, papa nua barima	A1 Lektion2
+der Cousin, die Cousins	ne wɔfase, ne wɔfase no	A1 Lektion2
+die Cousine, die Cousinen	ne wɔfase, ne wɔfase no	A1 Lektion2
+der Familienname, die Familiennamen / der Nachname, die Nachnamen	abusua din, abusua din / edin a etwa to, edin a etwa to	A1 Lektion2
+der Familienstand	aware tebea no	A1 Lektion2
+die Straße, die Straßen	abɔnten so, mmɔnten so	A1 Lektion2
+die Hausnummer, die Hausnummern	ofie nɔma, ofie nɔma	A1 Lektion2
+die Stadt, die Städte	kurow no, nkurow no	A1 Lektion2
+die Postleitzahl (PLZ), die Postleitzahlen	posɔfese koodu (zip code), posɔfese koodu ahorow no	A1 Lektion2
+die Telefonnummer, die Telefonnummern	telefon nɔma, telefon nɔma ahorow no	A1 Lektion2
+einundzwanzig	aduonu baako	A1 Lektion2
+dreißig	aduasa	A1 Lektion2
+siebzig	aduɔson	A1 Lektion2
+hundert	ɔha	A1 Lektion2
+die Adresse, die Adressen	address no, address ahorow no	A1 Lektion2
+das Alter	mfe a wɔadi	A1 Lektion2
+der Geburtsort	beae a wɔwoo no	A1 Lektion2
+der Wohnort, die Wohnorte	beae a wɔte, mmeae a wɔte	A1 Lektion2
+der Stuhl, die Stühle	nkongua no, nkongua no	A1 Lektion3
+der Stift, die Stifte	kyerɛwdua no, kyerɛwdua no	A1 Lektion3
+das Buch, die Bücher	nhoma no, nhoma ahorow no	A1 Lektion3
+der Computer, die Computer	kɔmputa no, kɔmputa ahorow no	A1 Lektion3
+die Maus, die Mäuse	nwansena, mpɔtorɔ	A1 Lektion3
+die Tastatur, die Tastaturen	keyboard no, keyboard ahorow no	A1 Lektion3
+der Bildschirm, die Bildschirme	screen no, screen ahorow no	A1 Lektion3
+das Handy, die Handys	telefon a wokura kyin, telefon a wokura kyin	A1 Lektion3
+die Tasche, die Taschen	bag no, bag ahorow no	A1 Lektion3
+die E-Mail, die E-Mails	email no, email ahorow no	A1 Lektion3
+die Musik	nnwom no	A1 Lektion3
+lesen	kan	A1 Lektion3
+schreiben	twerɛ	A1 Lektion3
+hören	te	A1 Lektion3
+lernen	sua	A1 Lektion3
+der Lehrer, die Lehrerin	ɔkyerɛkyerɛfo, ɔkyerɛkyerɛfo	A1 Lektion3
+das Tablet, die Tablets	abopon no, abopon no	A1 Lektion3
+der Laptop, die Laptops	laptop no, laptop ahorow no	A1 Lektion3
+der Kuli, die Kulis	coolie no, nea ɔyɛ coolie no	A1 Lektion3
+die Übung, die Übungen	apɔw-mu-teɛteɛ no, apɔw-mu-teɛteɛ no	A1 Lektion3
+neu	foforɔ	A1 Lektion3
+schön	kama	A1 Lektion3
+groß	kakraa	A1 Lektion3
+klein	ketewa	A1 Lektion3
+interessant	anika	A1 Lektion3
+einfach	kɛkɛ	A1 Lektion3
+schwierig	den	A1 Lektion3
+richtig	siesie	A1 Lektion3
+falsch	ɛnteɛ	A1 Lektion3
+der Satz, die Sätze	kasamu no, kasamu no	A1 Lektion3
+einen Deutschkurs machen	fa German kasa adesua	A1 Lektion3
+nett	kama	A1 Lektion3
+fragen	nsɛmmisa	A1 Lektion3
+antworten	anoyie	A1 Lektion3
+der Montag	Memeneda no	A1 Lektion3
+der Dienstag	wɔ Yawda no	A1 Lektion3
+der Mittwoch	Dwoda no	A1 Lektion3
+der Donnerstag	Dwoda no	A1 Lektion3
+der Freitag	Fida no	A1 Lektion3
+der Samstag	Kwasida no	A1 Lektion3
+der Sonntag	Kwasida no	A1 Lektion3
+gestern	nnora	A1 Lektion3
+heute	ɛnnɛ	A1 Lektion3
+morgen	anɔpa	A1 Lektion3
+die Brille, die Brillen	ahwehwɛ no, ahwehwɛ no	A1 Lektion3
+die Tür, die Türen	ɔpon no, apon no	A1 Lektion3
+das Wörterbuch, die Wörterbücher	nsɛm asekyerɛ nhoma no, nsɛm asekyerɛ nhoma ahorow no	A1 Lektion3
+das Gemüse	nhabannuru no	A1 Lektion4
+der Salat, die Salate	salad no, salad ahorow no	A1 Lektion4
+das Fleisch	nam no	A1 Lektion4
+die Wurst, die Würste	soseji no, soseji no	A1 Lektion4
+das Obst	aduaba no	A1 Lektion4
+die Milch	nufusu no	A1 Lektion4
+das Wasser	nsu no	A1 Lektion4
+der Saft, die Säfte	nsuo no, nsuo no	A1 Lektion4
+der Fisch, die Fische	mpataa no	A1 Lektion4
+der Kuchen, die Kuchen	keeki no, keeki no	A1 Lektion4
+das Eis	ice cream a wɔde yɛ ice cream no	A1 Lektion4
+das Schweinefl eisch	mprako nam no	A1 Lektion4
+der Tee, die Tees	tii no, tii no	A1 Lektion4
+der Joghurt, die Joghurts	yogurt no, yogurt no	A1 Lektion4
+der Reis	aburow no	A1 Lektion4
+das Brot, die Brote	paanoo no, paanoo no	A1 Lektion4
+das Brötchen, die Brötchen	bun no, buns no	A1 Lektion4
+der Kaffee, die Kaffees	kɔfe ee, kɔfe ees	A1 Lektion4
+der Käse	cheese no	A1 Lektion4
+das Hähnchen, die Hähnchen	akokɔ, nkokɔ	A1 Lektion4
+mögen (ich mag; du magst; er/sie/es mag; Sie mögen)	te sɛ (M’ani gye ho; w’ani gye ho; ɔ/ɔ/ɛpɛ; w'ani gye ho)	A1 Lektion4
+essen (ich esse; du isst; er/sie/es isst; Sie essen)	di (medidi; wodi; ɔno/ɔdi; wodidi)	A1 Lektion4
+trinken	nom	A1 Lektion4
+der Apfel, die Äpfel	apɔw-mu-teɛteɛ, apɔw-mu-teɛteɛ	A1 Lektion4
+die Banane, die Bananen	banana no, banana no	A1 Lektion4
+das Ei, die Eier	ɛmo no, nkesua no	A1 Lektion4
+die Gurke, die Gurken	kukuruku no, kukuruku no	A1 Lektion4
+das Getränk, die Getränke	anonne no, anonne no	A1 Lektion4
+der Paprika, die Paprika	ɛmo no, ɛmo no	A1 Lektion4
+die Nudel, die Nudeln	noodles no, noodles no	A1 Lektion4
+die Möhre, die Möhren	karɔt no, karɔt no	A1 Lektion4
+die Tomate, die Tomaten	tomato no, tomato no	A1 Lektion4
+die Zwiebel, die Zwiebeln	ayɛyɛdeɛ no, ayɛyɛdeɛ no	A1 Lektion4
+brauchen	hia	A1 Lektion4
+kaufen	tɔ	A1 Lektion4
+kochen	noa	A1 Lektion4
+das Kilo, die Kilos	kilo no, kilo no	A1 Lektion4
+der Liter, die Liter	lita no, lita no	A1 Lektion4
+das Stück, die Stücke	asinasin no, asinasin no	A1 Lektion4
+die Tüte, die Tüten	bag no, bag ahorow no	A1 Lektion4
+die Flasche, die Flaschen	toa no, nkotoku no	A1 Lektion4
+das Glas, die Gläser	ahwehwɛ no, ahwehwɛ no	A1 Lektion4
+der Supermarkt, die Supermärkte	aguadidan kɛse no, aguadidan akɛse no	A1 Lektion4
+der Euro, die Euro	euro no, euro no	A1 Lektion4
+der Cent, die Cents	cent no, cent no	A1 Lektion4
+kosten	ɛka	A1 Lektion4
+der Preis, die Preise	bo no, nneɛma bo a wɔbɔ	A1 Lektion4
+das Mittagessen	awia aduan no	A1 Lektion4
+das Abendessen	anwummere aduan no	A1 Lektion4
+das Frühstück	anɔpaduan no	A1 Lektion4
+die Marmelade, die Marmeladen	jam no, jam no	A1 Lektion4
+süß	dɛ	A1 Lektion4
+sauer	keka	A1 Lektion4
+salzig	nkyene a ɛyɛ nkyene	A1 Lektion4
+scharf	nam	A1 Lektion4
+der Zucker	asikre no	A1 Lektion4
+der Tag, die Tage	da no, nna no	A1 Lektion5
+der Morgen, die Morgen	anɔpa, anɔpa	A1 Lektion5
+der Vormittag, die Vormittage	anɔpa, anɔpa	A1 Lektion5
+der Mittag, die Mittage	awiabere, awiabere	A1 Lektion5
+der Nachmittag, die Nachmittage	awiabere, awiabere	A1 Lektion5
+der Abend, die Abende	anwummere, anwummere	A1 Lektion5
+die Nacht, die Nächte	anadwo, anadwo	A1 Lektion5
+frühstücken	di anɔpa aduane	A1 Lektion5
+duschen	dware	A1 Lektion5
+schlafen	da	A1 Lektion5
+arbeiten	adwuma	A1 Lektion5
+die Arbeit	adwuma no	A1 Lektion5
+die Hausaufgaben machen	yɛ sukuu dwumadi a wɔyɛ wɔ fie no	A1 Lektion5
+telefonieren	frɛ obi wɔ telefon so	A1 Lektion5
+Fußball spielen	bɔ bɔɔl	A1 Lektion5
+Sport machen	Yɛ agumadi	A1 Lektion5
+Musik hören	Tie nnwom	A1 Lektion5
+putzen	ahotew a wɔyɛ	A1 Lektion5
+tanzen	sa	A1 Lektion5
+Gitarre spielen	bɔ guitar	A1 Lektion5
+treffen (ich treffe; du triffst; er/sie/es trifft; Sie treffen)	meet (Mebɔ; wobɔ; ɔno/ɔbɔ; wohyia)	A1 Lektion5
+aufstehen	sɔre gyina hɔ	A1 Lektion5
+fernsehen	TV so	A1 Lektion5
+einkaufen	dwadie	A1 Lektion5
+aufräumen	siesie wo ho	A1 Lektion5
+vorlesen	kenkan no den	A1 Lektion5
+anrufen	frɛ	A1 Lektion5
+abholen	kɔ fa	A1 Lektion5
+anfangen (ich fange an; du fängst an; er/sie/es fängt an; Sie fangen an)	start (Mehyɛ aseɛ; wo na wohyɛ aseɛ; ɔ/ɔ/ɛhyɛ aseɛ; wohyɛ aseɛ)	A1 Lektion5
+früh	ntɛm	A1 Lektion5
+spät	aka akyi	A1 Lektion5
+die Stunde, die Stunden	dɔnhwerew no, nnɔnhwerew no	A1 Lektion5
+die Pause, die Pausen	ahomegye no, ahomegye no	A1 Lektion5
+das Wochenende, die Wochenenden	dapɛn awiei, dapɛn awiei	A1 Lektion5
+meistens	dodoɔ no ara	A1 Lektion5
+immer	berɛ biara	A1 Lektion5
+oft	mpɛn pii	A1 Lektion5
+manchmal	ɛtɔ da a	A1 Lektion5
+selten	ntaa nsi	A1 Lektion5
+nie	da	A1 Lektion5
+mitkommen	bra	A1 Lektion5
+gehen	kɔ	A1 Lektion5
+die Wohnung, die Wohnungen	ɔdan no, adan a ɛwɔ hɔ no	A1 Lektion6
+die Küche, die Küchen	adididan, adididan ahorow	A1 Lektion6
+der Balkon, die Balkone	abrannaa so, abrannaa no so	A1 Lektion6
+das Badezimmer, das Bad	aguaree, aguaree	A1 Lektion6
+hell	hann	A1 Lektion6
+das Fenster, die Fenster	mfɛnsere no, mfɛnsere no	A1 Lektion6
+das Wohnzimmer	dan a wɔtra mu no	A1 Lektion6
+das Schlafzimmer	ɔdan a wɔda mu no	A1 Lektion6
+das Sofa, die Sofas	sofa no, sofa ahorow no	A1 Lektion6
+das Kinderzimmer	mmofra dan no mu	A1 Lektion6
+der Flur, die Flure	ɔkwan a wɔfa so kɔ hɔ, akwan a wɔfa so kɔ hɔ	A1 Lektion6
+das Haus, die Häuser	ofie no, afie no	A1 Lektion6
+die Garage, die Garagen	kar dan, kar dan ahorow	A1 Lektion6
+der Garten, die Gärten	turo no, turo ahorow no	A1 Lektion6
+das Zimmer, die Zimmer	dan no, adan no mu	A1 Lektion6
+zweihundert	ahanu	A1 Lektion6
+tausend	apem	A1 Lektion6
+zweitausend	mpem abien	A1 Lektion6
+das Geld	sika no	A1 Lektion6
+das Auto, die Autos	kar no, kar ahorow no	A1 Lektion6
+das Erdgeschoss (EG)	fam (ase abansoro)	A1 Lektion6
+der Keller	ɔdan a ɛwɔ dan ase no	A1 Lektion6
+die Nebenkosten (NK)	ɛka foforo a wɔbɔ (NK)	A1 Lektion6
+das Stadtzentrum, die Stadtzentren / die Stadtmitte	kurow no mfinimfini, kurow no mfinimfini / kurow no mfinimfini	A1 Lektion6
+die Heizung, die Heizungen	ɔhyew no, ɔhyew afiri no	A1 Lektion6
+die Kaution, die Kautionen	sika a wɔde asie, sika a wɔde asie	A1 Lektion6
+die Monatsmiete, die Monatsmieten (MM)	ɔsram biara dan ka, ɔsram biara dan ka (MM)	A1 Lektion6
+der Strom	asubɔnten no	A1 Lektion6
+möbliert	a wɔde nneɛma ahyɛ mu	A1 Lektion6
+dunkel	sum	A1 Lektion6
+laut	den	A1 Lektion6
+ruhig	dinn	A1 Lektion6
+billig	fo	A1 Lektion6
+die Wohnungsanzeige, die Wohnungsanzeigen	ɔdan ho dawurubɔ, ɔdan no kyerɛ	A1 Lektion6
+gemütlich	ahotɔ	A1 Lektion6
+der Vermieter, die Vermieterin	ofie wura, ofie wura	A1 Lektion6
+die Dusche, die Duschen	nsuo a wɔde gu mu, nsuo a wɔde gu mu	A1 Lektion6
+mieten	han	A1 Lektion6
+der Tisch, die Tische	pon no, apon no	A1 Lektion6
+der Schrank, die Schränke	ɔdan a wɔde nneɛma gu mu, nkuku a wɔde nneɛma gu mu	A1 Lektion6
+der Teppich, die Teppiche	kapet no, kapet ahorow no	A1 Lektion6
+das Bett, die Betten	mpa no, mpa no	A1 Lektion6
+der Sessel, die Sessel	nkongua a wɔde nsa so, nkongua a wɔde nsa so	A1 Lektion6
+das Regal, die Regale	shelf no, shelf ahorow no	A1 Lektion6
+der Fernseher, die Fernseher	television, television ahorow no	A1 Lektion6
+der Herd, die Herde	ogya dan, nguankuw	A1 Lektion6
+der Kühlschrank, die Kühlschränke	frigye no, frigye ahorow no	A1 Lektion6
+die Waschmaschine, die Waschmaschinen	afiri a wɔde horo nneɛma, mfiri a wɔde horo nneɛma	A1 Lektion6
+die Spülmaschine, die Spülmaschinen	nkuku hohorofo, nkuku hohorofo	A1 Lektion6
+das Möbel, die Möbel	nneɛma a wɔde siesie fie, nneɛma a wɔde siesie fie	A1 Lektion6
+schmal	teaa	A1 Lektion6
+breit	tɛtrɛɛ	A1 Lektion6
+hässlich	tan	A1 Lektion6
+das Geschirr spülen	hohoro nkuku no ho	A1 Lektion6
+Staub saugen	Ohunu mu	A1 Lektion6
+waschen	horo	A1 Lektion6
+der Parkplatz, die Parkplätze	baabi a wɔde kar sisi, mmeae a wɔde kar sisi	A1 Lektion7
+der Bus, die Busse	bɔs no, bɔs ahorow no	A1 Lektion7
+die Linie, die Linien	nkyerɛwde no, nkyerɛwde no	A1 Lektion7
+die U-Bahn, die U-Bahnen	keteke a ɛnam fam, keteke a ɛnam fam	A1 Lektion7
+die Straßenbahn, die Straßenbahnen	tram no, tram ahorow no	A1 Lektion7
+das Fahrrad, die Fahrräder (Kurzform: das Rad)	sakre no, sakre no (kwan tiawa: ntwahonan no)	A1 Lektion7
+der Zug, die Züge	keteke no, keteke ahorow no	A1 Lektion7
+zu Fuß gehen	sɛ wɔbɛnantew	A1 Lektion7
+das Verkehrsmittel, die Verkehrsmittel	akwan a wɔfa so de kar, akwan a wɔfa so fa nneɛma	A1 Lektion7
+fahren	twi	A1 Lektion7
+ankommen	duru	A1 Lektion7
+der Bahnhof, die Bahnhöfe	keteke gyinabea, keteke gyinabea ahorow	A1 Lektion7
+die Haltestelle, die Haltestellen	nea egyina, nea egyina	A1 Lektion7
+der Fahrplan, die Fahrpläne	bere nhyehyɛe, bere nhyehyɛe ahorow	A1 Lektion7
+die Apotheke, die Apotheken	nnurutɔnbea, nnurutɔnbea ahorow	A1 Lektion7
+suchen	hwehwɛ	A1 Lektion7
+die Bücherei	nhomakorabea no	A1 Lektion7
+das Rathaus	kurow no mu asa so	A1 Lektion7
+die Bank, die Banken	sikakorabea no, sikakorabea ahorow no	A1 Lektion7
+die Schule, die Schulen	sukuu no, sukuu ahorow no	A1 Lektion7
+der Park, die Parks	abɔnten so atrae, mmɔnten so atrae ahorow	A1 Lektion7
+die Polizei	polisifo no	A1 Lektion7
+das Museum, die Museen	tete nneɛma akorae no, tete nneɛma akorae ahorow no	A1 Lektion7
+der Friseur, die Friseure	nea ɔyɛ ti nhwi, nea ɔyɛ ti nhwi	A1 Lektion7
+das Krankenhaus, die Krankenhäuser	ayaresabea no, ayaresabea ahorow no	A1 Lektion7
+die Kirche, die Kirchen	asɔre no, asɔre ahorow no	A1 Lektion7
+die Bäckerei, die Bäckereien	baabi a wɔyɛ paanoo, mmeae a wɔyɛ paanoo	A1 Lektion7
+schwimmen	sɛ wobɛguare	A1 Lektion7
+der Spielplatz, die Spielplätze	agoprama, agoprama	A1 Lektion7
+das W-Lan	WiFi no	A1 Lektion7
+das Taxi, die Taxis	taksi no, taksi ahorow no	A1 Lektion7
+der Norden	atifi fam	A1 Lektion7
+der Osten	Apuei fam	A1 Lektion7
+der Süden	anafo fam	A1 Lektion7
+der Westen	Atɔe Fam	A1 Lektion7
+aussteigen	firi	A1 Lektion7
+einsteigen	kɔ mu	A1 Lektion7
+rechts	nifa	A1 Lektion7
+links	benkum	A1 Lektion7
+geradeaus	tẽẽ kɔ w’anim	A1 Lektion7
+die Kreuzung, die Kreuzungen	nhyiamu no, nhyiamu no	A1 Lektion7
+die Ampel, die Ampeln	kar akanea, kar akanea no	A1 Lektion7
+umsteigen	mane	A1 Lektion7
+abbiegen	mane	A1 Lektion7
+holen	sa	A1 Lektion7
+die Fahrkarte, die Fahrkarten / das Ticket, die Tickets	tekiti no, tekiti no / tekiti no, tekiti ahorow no	A1 Lektion7
+der Schein, die Scheine	sika a wɔde tua ho ka, sika a wɔde tua ho ka	A1 Lektion7
+die EC-Karte, die EC-Karten	EC kaad no, EC kaad ahorow no	A1 Lektion7
+die Münze, die Münzen	sika no, sika no	A1 Lektion7
+der Erwachsene, die Erwachsenen	ɔpanyin, mpanyimfo	A1 Lektion7
+die Verspätung, die Verspätungen	nea ɛkyɛ, nea ɛkyɛ	A1 Lektion7
+die Information, die Informationen	nsɛm no, nsɛm no	A1 Lektion7
+die Toilette, die Toiletten	tiafi, tiafi	A1 Lektion7
+warten	twɛn	A1 Lektion7
+der Beruf, die Berufe	adwuma no, adwuma ahorow no	A1 Lektion8
+der Krankenpfleger, die Krankenpflegerin	ɔyarehwɛfo, ɔyarehwɛfo	A1 Lektion8
+der Kellner, die Kellnerin	nea ɔhwɛ pon so, nea ɔhwɛ pon so	A1 Lektion8
+der Bankkaufmann, die Bankkaufrau	sikakorabea kyerɛwfo, sikakorabea kyerɛwfo rough	A1 Lektion8
+der Polizist, die Polizistin	polisini, polisini bea no	A1 Lektion8
+der Student, die Studentin	osuani no	A1 Lektion8
+der Verkäufer, die Verkäuferin	adetɔnfo, adetɔnfo	A1 Lektion8
+der Koch, die Köchin	nea ɔnoa aduan, nea ɔnoa aduan	A1 Lektion8
+der Arzt, die Ärztin	oduruyɛfo, oduruyɛfo	A1 Lektion8
+servieren	som	A1 Lektion8
+der Kunde, die Kunden	adetɔfo no, adetɔfo no	A1 Lektion8
+unterrichten	kyerɛ	A1 Lektion8
+das Büro, die Büros	adwumayɛbea no, adwumayɛbea ahorow no	A1 Lektion8
+der Bürokaufmann, die Bürokauffrau	ɔfese kyerɛwfo, ɔfese kyerɛwfo rough	A1 Lektion8
+der Ingenieur, die Ingenieurin	mfiridwumayɛfo no	A1 Lektion8
+der Automechaniker, die Automechanikerin	kar yɛfo, kar yɛfo	A1 Lektion8
+das Hotel, die Hotels	ahɔhodan no, ahɔhodan ahorow no	A1 Lektion8
+backen	to	A1 Lektion8
+organisieren	nhyehyɛe	A1 Lektion8
+reparieren	siesie	A1 Lektion8
+schneiden	twa	A1 Lektion8
+können (ich kann; du kannst; er/sie/es kann; Sie können)	betumi (Metumi; wo betumi; ɔ/ɔ/ɛbɛtumi; wobɛtumi)	A1 Lektion8
+singen	to dwom	A1 Lektion8
+zu Hause bleiben	tena fie	A1 Lektion8
+müssen (ich muss; du musst; er/sie/es muss; Sie müssen)	ɛsɛ sɛ (ɛsɛ sɛ; ɛsɛ sɛ woyɛ; ɔno/ɔ/ɛno ɛsɛ sɛ; ɛsɛ sɛ; ɛsɛ sɛ wo)	A1 Lektion8
+leise	dinn	A1 Lektion8
+parken	prama	A1 Lektion8
+der Feierabend	da no awiei	A1 Lektion8
+der Dienstplan, die Dienstpläne	roster no, rosters no	A1 Lektion8
+unterschreiben	fa nsa hyɛ aseɛ	A1 Lektion8
+der Schüler, die Schüler	osuani no, asuafo no	A1 Lektion8
+eine Ausbildung machen	nya nhomasua	A1 Lektion8
+die Aushilfe, die Aushilfen	bere tiaa mu mmoa, bere tiaa mu mmoa	A1 Lektion8
+Geld verdienen	nya sika	A1 Lektion8
+möchten (ich möchte; du möchtest; er/sie möchte; Sie möchten)	pɛ (Mepɛ; wopɛ; ɔ/ɔpɛ; wopɛ)	A1 Lektion8
+der Schuh, die Schuhe	mpaboa no, mpaboa no	A1 Lektion8
+die Arbeitszeit, die Arbeitszeiten	adwuma bere, adwuma bere	A1 Lektion8
+freundlich	pɛ nipa	A1 Lektion8
+flexibel	mrɛ	A1 Lektion8
+pünktlich	wɔ bere ano	A1 Lektion8
+frei haben	wɔ free	A1 Lektion8
+die Stellenanzeige, die Stellenanzeigen	adwuma ho dawurubɔ, adwuma ho dawurubɔ	A1 Lektion8
+krank	yare	A1 Lektion9
+der Hals, die Hälse	kɔn, kɔn mu	A1 Lektion9
+der Husten	ɔfe no	A1 Lektion9
+der Schnupfen	awɔw no	A1 Lektion9
+der Mund, die Münder	ano, ano	A1 Lektion9
+entzündet	gyaee no	A1 Lektion9
+das Fieber	atiridiinini no	A1 Lektion9
+das Rezept, die Rezepte	aduannoa ho nyansahyɛ, aduannoa ho nyansahyɛ ahorow	A1 Lektion9
+das Medikament, die Medikamente	aduru no, nnuru no	A1 Lektion9
+der Kopf, die Köpfe	ti no, ti no	A1 Lektion9
+der Bauch, die Bäuche	yafunu, yafunu	A1 Lektion9
+das Bein, die Beine	nan no, nan no	A1 Lektion9
+der Fuß, die Füße	nan, anan	A1 Lektion9
+der Arm, die Arme	abasa no, abasa no	A1 Lektion9
+die Hand, die Hände	nsa, nsa	A1 Lektion9
+die Nase, die Nasen	hwene, hwene	A1 Lektion9
+das Auge, die Augen	aniwa, aniwa	A1 Lektion9
+das Ohr, die Ohren	aso, aso	A1 Lektion9
+der Zahn, die Zähne	ɛse no, sẽ no	A1 Lektion9
+das Haar, die Haare	ti nhwi no, ti nhwi no	A1 Lektion9
+das Gesicht, die Gesichter	anim, anim	A1 Lektion9
+der Rücken, die Rücken	akyi, akyi	A1 Lektion9
+der Patient, die Patientin	ɔyarefo no	A1 Lektion9
+der Finger, die Finger	nsateaa, nsateaa	A1 Lektion9
+die Erkältung, die Erkältungen	awɔw, awɔw	A1 Lektion9
+schwanger	nyem	A1 Lektion9
+erkältet	atiridii bi	A1 Lektion9
+die Grippe, die Grippen	atiridiinini no, atiridiinini no	A1 Lektion9
+gesund	te apɔ	A1 Lektion9
+die Tablette, die Tabletten	abopon no, abopon no	A1 Lektion9
+der Hausarzt, die Hausärzte	abusua oduruyɛfo, abusua nnuruyɛfo	A1 Lektion9
+die Praxis, die Praxen	adeyɛ no, nneyɛe no	A1 Lektion9
+die Versichertenkarte, die Versichertenkarten	insurance krataa no, insurance krataa no nkrataa a wɔde kyerɛw nsɛm	A1 Lektion9
+die Krankenversicherung, die Krankenversicherungen	akwahosan ho insurance, akwahosan ho insurance insurance	A1 Lektion9
+die Krankheit, die Krankheiten	yare no, nyarewa no	A1 Lektion9
+verletzt	piraeɛ	A1 Lektion9
+der Notfall, die Notfälle	ntɛmpɛ, nneɛma a egye ntɛmpɛ	A1 Lektion9
+der Krankenwagen, die Krankenwagen	ambulance no, ambulance ahorow no	A1 Lektion9
+die Sprechstunde, die Sprechstunden	nnɔnhwerew a wɔde susuw nsɛm ho, nnɔnhwerew a wɔde susuw nsɛm ho	A1 Lektion9
+die Spritze, die Spritzen	syringe no, syringe no	A1 Lektion9
+der Verband, der Verbände	fekuw no, a ɛfa fekuw ahorow ho	A1 Lektion9
+das Pflaster, die Pflaster	ɔkwan a wɔfa so fa so, ɔkwan a wɔfa so fa so	A1 Lektion9
+die Untersuchung, die Untersuchungen	nhwehwɛmu no, nhwehwɛmu ahorow no	A1 Lektion9
+müde	brɛ	A1 Lektion9
+der Körper, die Körper	nipadua no, nipadua ahorow no	A1 Lektion9
+der Schmerz, die Schmerzen	ɛyaw no, ɛyaw no	A1 Lektion9
+die Krankschreibung, die Krankschreibungen / das Attest, die Atteste	yare krataa, yare krataa nkrataa / adansedi krataa no, adansedi nkrataa no	A1 Lektion9
+der Arbeitgeber, die Arbeitgeber	adwumawura, adwumawuranom	A1 Lektion9
+die Entschuldigung, die Entschuldigungen	kyɛwpa no, anoyi ahorow no	A1 Lektion9
+schicken	mane	A1 Lektion9
+der Unfall, die Unfälle	akwanhyia no, akwanhyia ahorow no	A1 Lektion9
+der Notarzt, die Notärzte	oduruyɛfo a ɔhwɛ ntɛmpɛ so, nnuruyɛfo a wɔhwɛ ntɛmpɛ so	A1 Lektion9
+der Koffer, die Koffer	bag no ɔno, bag no ɔno	A1 Lektion10
+die Badehose, die Badehosen	asuguare ntini, asuguare ntini	A1 Lektion10
+der Badeanzug, die Badeanzüge	asuguare atade, asuguare ntade	A1 Lektion10
+liegen	to hɔ	A1 Lektion10
+packen	hyehyɛ	A1 Lektion10
+stellen	beaeɛ	A1 Lektion10
+sehen	hwɛ	A1 Lektion10
+legen	beaeɛ	A1 Lektion10
+der Urlaub, die Urlaube	akwamma no, akwamma no	A1 Lektion10
+vergessen	werɛ firi	A1 Lektion10
+losfahren	kar no kɔ	A1 Lektion10
+besuchen	sra	A1 Lektion10
+finden	hwehwɛ	A1 Lektion10
+einen Spaziergang machen	fa wo ho kɔ nantew	A1 Lektion10
+Fußball gucken	Hwɛ bɔɔlbɔ	A1 Lektion10
+der Zoo, die Zoos	mmoa yɛmmea, mmoa yɛmmea	A1 Lektion10
+fotografieren	twa mfonini ahorow	A1 Lektion10
+bleiben	ka	A1 Lektion10
+studieren	sua	A1 Lektion10
+das Geburtsdatum	da a wɔwoo no	A1 Lektion10
+Spaß haben	gye w'ani	A1 Lektion10
+Ski fahren	sɛ wobɛkɔ ski so	A1 Lektion10
+stressig	adwennwen a ɛyɛ den	A1 Lektion10
+das Kleid, die Kleider	atadeɛ no, ntadeɛ no	A1 Lektion11
+die Hose, die Hosen	trako no, trako no	A1 Lektion11
+die Jacke, die Jacken	jacket no, jacket ahorow no	A1 Lektion11
+der Rock, die Röcke	atade a wɔde hyɛ, atade a wɔde hyɛ	A1 Lektion11
+das T-Shirt, die T-Shirts	t-shirt no, t-shirt ahorow no	A1 Lektion11
+der Pullover, die Pullover	sweater no, sweaters no	A1 Lektion11
+die Bluse, die Blusen	blouse no, blouse ahorow no	A1 Lektion11
+das Hemd, die Hemden	atade no, atade no	A1 Lektion11
+der Mantel, die Mäntel	atadeɛ no, atadeɛ no	A1 Lektion11
+sportlich	agumadi mu nsɛm	A1 Lektion11
+elegant	ahofa kuntann	A1 Lektion11
+die Farbe, die Farben	kɔla no, kɔla ahorow no	A1 Lektion11
+bunt	kɔla ahorow	A1 Lektion11
+blau	bunu	A1 Lektion11
+der Gürtel, die Gürtel	abɔso no, abɔso no	A1 Lektion11
+rot	kɔkɔɔ	A1 Lektion11
+braun	dodoeɛ	A1 Lektion11
+die Mütze, die Mützen	kyɛw no, kyɛw no	A1 Lektion11
+der Schal, die Schals	scarf no, scarf ahorow no	A1 Lektion11
+der Handschuh, die Handschuhe	nsateaa no, nsateaa no	A1 Lektion11
+grün	ahabanmono	A1 Lektion11
+weiß	fitaa	A1 Lektion11
+schwarz	tuntum	A1 Lektion11
+gelb	yɛlo	A1 Lektion11
+die Socke, die Socken	sɔks no, sɔks no	A1 Lektion11
+die Krawatte, die Krawatten	krataa a wɔde kyekyere, nea wɔde kyekyere	A1 Lektion11
+grau	nso	A1 Lektion11
+der Stiefel, die Stiefel	boot no, mpaboa no	A1 Lektion11
+das Kopftuch, die Kopftücher	ti nhwi, ti nhwi	A1 Lektion11
+tragen (ich trage; du trägst; er/sie/es trägt; Sie tragen)	soa (Me soa; wo soa; ɔ/ɔ/ɛsoa; wohyɛ)	A1 Lektion11
+anziehen	fa hyɛ	A1 Lektion11
+bequem	ahotɔ	A1 Lektion11
+die Umkleidekabine, die Umkleidekabinen	dan a wɔsesa nneɛma, adan a wɔsesa nneɛma	A1 Lektion11
+weit	ware	A1 Lektion11
+eng	bɛn hɔ	A1 Lektion11
+kurz	tiawa	A1 Lektion11
+lang	tenten	A1 Lektion11
+unbequem	a ɛnyɛ dɛ	A1 Lektion11
+günstig	fo	A1 Lektion11
+das Sonderangebot, die Sonderangebote	nea wɔde ma titiriw, nea wɔde ma titiriw	A1 Lektion11
+reduziert	wɔatew so	A1 Lektion11
+umtauschen	sesa	A1 Lektion11
+kaputt	abu	A1 Lektion11
+der Kassenbon, die Kassenbons	krataa a wɔde gye sika, nkrataa a wɔde gye sika no	A1 Lektion11
+die Sache, die Sachen	ade no, nneɛma no	A1 Lektion11
+das Wetter	wim tebea no	A1 Lektion12
+die Jahreszeit, die Jahreszeiten	bere no, mmere ahorow	A1 Lektion12
+sonnig	awia	A1 Lektion12
+regnen	nsuo tɔ	A1 Lektion12
+schneien	sunoo	A1 Lektion12
+bewölkt	ɛbɔ	A1 Lektion12
+heiß	hye	A1 Lektion12
+kalt	nwunu	A1 Lektion12
+windig	mframamframa	A1 Lektion12
+die Sonne	owia no	A1 Lektion12
+scheinen	ayɛ sɛ	A1 Lektion12
+die Temperatur, die Temperaturen	ɔhyew a ɛwɔ hɔ, ɔhyew a ɛwɔ hɔ	A1 Lektion12
+der Regen	osu a ɛtɔ	A1 Lektion12
+der Schnee	sukyerɛmma no	A1 Lektion12
+der Wind	mframa a ɛbɔ no	A1 Lektion12
+die Wolke, die Wolken	mununkum, mununkum	A1 Lektion12
+der Frühling	ahohuru bere mu	A1 Lektion12
+der Sommer	awɔw bere mu	A1 Lektion12
+der Herbst	osutɔbere mu	A1 Lektion12
+der Winter	awɔw bere mu	A1 Lektion12
+ein Picknick machen	yɛ piknik	A1 Lektion12
+spazieren gehen	kɔ kɔbɔ wo ho akɔneaba	A1 Lektion12
+wollen (ich will; du willst; er/sie/es will; Sie wollen)	pɛ (Mepɛ; wopɛ; ɔ/ɔ/ɛpɛ; wopɛ)	A1 Lektion12
+der See, die Seen	ɔtare no, atare no	A1 Lektion12
+einen Ausflug machen	kɔ akwantu bi mu	A1 Lektion12
+das Foto, die Fotos	mfonini no, mfonini ahorow no	A1 Lektion12
+der Brief, die Briefe	krataa no, nkrataa no	A1 Lektion12
+der Monat, die Monate	ɔsram no, asram no	A1 Lektion12
+der Januar	Ɔpɛpɔn	A1 Lektion12
+der Februar	Ɔgyefoɔ	A1 Lektion12
+der März	Ɔbɛnem	A1 Lektion12
+der April	Oforisuo	A1 Lektion12
+der Mai	Bɛtumi	A1 Lektion12
+der Juni	Ayɛwohomumɔ	A1 Lektion12
+der Juli	Kutawonsa	A1 Lektion12
+der August	a ɛyɛ August no	A1 Lektion12
+der September	a ɛyɛ September no	A1 Lektion12
+der Oktober	Ahinime	A1 Lektion12
+der November	November no mu	A1 Lektion12
+der Dezember	December no mu	A1 Lektion12
+heiraten	ware	A1 Lektion12
+das Geschenk, die Geschenke	akyɛdeɛ no, akyɛdeɛ no	A1 Lektion12
+der Geburtstag, die Geburtstage	awoda, awoda	A1 Lektion12
+die Hochzeit, die Hochzeiten	ayeforohyia no, ayeforohyia ahorow no	A1 Lektion12
+Weihnachten	Buronya	A1 Lektion12
+Ostern	Easter a wɔde di dwuma	A1 Lektion12
+Silvester	Afe Foforo Anwummere	A1 Lektion12
+der Feiertag, die Feiertage	dapɔnna no, nnapɔnna no	A1 Lektion12
+das Fest, die Feste / die Feier, die Feiern	afahyɛ no, afahyɛ ahorow / afahyɛ no, afahyɛ ahorow no	A1 Lektion12
+das Datum	date no	A1 Lektion12
+die Einladung, die Einladungen	nsato krataa no, nsato krataa no	A1 Lektion12
+einladen (ich lade ein; du lädst ein; er/sie/es lädt ein; Sie laden ein)	to nsa frɛ (Meto nsa frɛ; wo to nsa frɛ; ɔ/ɔ/ɛto nsa frɛ; wo to nsa frɛ)	A1 Lektion12
+feiern	di	A1 Lektion12
+die Idee, die Ideen	adwene no, nsusuwii ahorow no	A1 Lektion12
+die Blume, die Blumen	nhwiren no, nhwiren no	A1 Lektion12
+das Spielzeug, die Spielzeuge	agode no, agode no	A1 Lektion12
