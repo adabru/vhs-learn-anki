@@ -15,3 +15,7 @@ python anki_cards_from_vhs_learn.py
 ```
 
 ISO 639-1 "ak" is Twi, the language the most spoken language in Ghana.
+
+### Update tables from Anki card set
+
+Export deck in Anki with settings "Notes in Plain Text (.txt)", rest default.

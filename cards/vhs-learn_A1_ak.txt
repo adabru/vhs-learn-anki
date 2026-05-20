@@ -67,7 +67,7 @@ die Schwester, die Schwestern	onuabea, anuanom mmea no	A1 Lektion2
 der Bruder, die Brüder	onua no, anuanom no	A1 Lektion2
 mein, meine	me, me	A1 Lektion2
 dein, deine	wo, wo	A1 Lektion2
-Ihr, Ihre	wo, wo&nbsp;	A1 Lektion2
+Ihr, Ihre	wo, wo	A1 Lektion2
 verheiratet	aware	A1 Lektion2
 ledig	sigyani	A1 Lektion2
 eins	baako	A1 Lektion2
@@ -82,7 +82,7 @@ zwölf	dummienu	A1 Lektion2
 sechzehn	dunsia	A1 Lektion2
 siebzehn	dunson	A1 Lektion2
 zwanzig	aduonu	A1 Lektion2
-wohnen (in)	te&nbsp;	A1 Lektion2
+wohnen (in)	te	A1 Lektion2
 geschieden	wɔagyae aware	A1 Lektion2
 der Vorname, die Vornamen	edin a edi kan, edin ahorow a edi kan	A1 Lektion2
 die Großmutter (Oma), die Großmütter (Omas)	nanabea (Nanabea), nananom (nananom)	A1 Lektion2
@@ -91,7 +91,7 @@ die Tante, die Tanten	sewaa	A1 Lektion2
 der Onkel, die Onkel	wɔfa, wɔfanom	A1 Lektion2
 der Cousin, die Cousins	nua no, anuanom	A1 Lektion2
 die Cousine, die Cousinen	nua no, anuanom	A1 Lektion2
-der Familienname, die Familiennamen / der Nachname, die Nachnamen	abusua din, abusua din ahorow&nbsp;	A1 Lektion2
+der Familienname, die Familiennamen / der Nachname, die Nachnamen	abusua din, abusua din ahorow	A1 Lektion2
 der Familienstand	aware tebea no	A1 Lektion2
 die Straße, die Straßen	kar kwan, kar akwan	A1 Lektion2
 die Hausnummer, die Hausnummern	ofie nɔma, ofie nɔma	A1 Lektion2
@@ -102,7 +102,7 @@ einundzwanzig	aduonu baako	A1 Lektion2
 dreißig	aduasa	A1 Lektion2
 siebzig	aduɔson	A1 Lektion2
 hundert	ɔha	A1 Lektion2
-die Adresse, die Adressen	adrɛss no, adrɛss&nbsp;ahorow no	A1 Lektion2
+die Adresse, die Adressen	adrɛss no, adrɛssahorow no	A1 Lektion2
 das Alter	mfe a wɔadi	A1 Lektion2
 der Geburtsort	beae a wɔwoo no	A1 Lektion2
 der Wohnort, die Wohnorte	beae a wɔte, mmeae a wɔte	A1 Lektion2
@@ -122,7 +122,7 @@ schreiben	twerɛ	A1 Lektion3
 hören	te	A1 Lektion3
 lernen	sua	A1 Lektion3
 der Lehrer, die Lehrerin	ɔkyerɛkyerɛfo, akyerɛkyerɛfo	A1 Lektion3
-das Tablet, die Tablets	taablɛt no, taablɛt&nbsp;no	A1 Lektion3
+das Tablet, die Tablets	taablɛt no, taablɛtno	A1 Lektion3
 der Laptop, die Laptops	laptop no, laptop ahorow no	A1 Lektion3
 der Kuli, die Kulis	twerɛdua, atwerɛdua	A1 Lektion3
 die Übung, die Übungen	apɔw-mu-teɛteɛ no, apɔw-mu-teɛteɛ no	A1 Lektion3
@@ -192,14 +192,14 @@ kochen	noa	A1 Lektion4
 das Kilo, die Kilos	kilo no, kilos no	A1 Lektion4
 der Liter, die Liter	lita no, litas no	A1 Lektion4
 das Stück, die Stücke	asinasin no, asinasin no	A1 Lektion4
-die Tüte, die Tüten	bɔtɔ, bɔtɔ&nbsp;no	A1 Lektion4
+die Tüte, die Tüten	bɔtɔ, bɔtɔno	A1 Lektion4
 die Flasche, die Flaschen	toa no, ntoa no	A1 Lektion4
 das Glas, die Gläser	glass kɔp, glaakɔp no	A1 Lektion4
 der Supermarkt, die Supermärkte	aguadidan kɛse no, aguadidan akɛse no	A1 Lektion4
 der Euro, die Euro	euro no, euro no	A1 Lektion4
 der Cent, die Cents	kaprɛ	A1 Lektion4
 kosten	bo	A1 Lektion4
-der Preis, die Preise	bo no,&nbsp;	A1 Lektion4
+der Preis, die Preise	bo no,	A1 Lektion4
 das Mittagessen	awia aduan no	A1 Lektion4
 das Abendessen	anwummere aduan no	A1 Lektion4
 das Frühstück	anɔpaduan no	A1 Lektion4
@@ -264,7 +264,7 @@ das Kinderzimmer	mmofra dan no mu	A1 Lektion6
 der Flur, die Flure	ɔkwan a wɔfa so dan mu	A1 Lektion6
 das Haus, die Häuser	ofie no, afie no	A1 Lektion6
 die Garage, die Garagen	kar dan, kar dan ahorow	A1 Lektion6
-der Garten, die Gärten	turo no, nturo&nbsp;	A1 Lektion6
+der Garten, die Gärten	turo no, nturo	A1 Lektion6
 das Zimmer, die Zimmer	dan no mu, adan no mu	A1 Lektion6
 zweihundert	ahanu	A1 Lektion6
 tausend	apem	A1 Lektion6
