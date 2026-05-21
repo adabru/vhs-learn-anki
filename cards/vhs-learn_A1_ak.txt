@@ -366,7 +366,7 @@ warten	twɛn	A1 Lektion7
 der Beruf, die Berufe	adwuma no, adwuma ahorow no	A1 Lektion8
 der Krankenpfleger, die Krankenpflegerin	ɔyarehwɛfo, ɔyarehwɛfo	A1 Lektion8
 der Kellner, die Kellnerin	nea ɔhwɛ pon so, nea ɔhwɛ pon so	A1 Lektion8
-der Bankkaufmann, die Bankkaufrau	sikakorabea kyerɛwfo, sikakorabea kyerɛwfo rough	A1 Lektion8
+der Bankkaufmann, die Bankkauffrau	sikakorabea kyerɛwfo, sikakorabea kyerɛwfo rough	A1 Lektion8
 der Polizist, die Polizistin	polisini, polisini bea no	A1 Lektion8
 der Student, die Studentin	osuani no	A1 Lektion8
 der Verkäufer, die Verkäuferin	adetɔnfo, adetɔnfo	A1 Lektion8
@@ -445,7 +445,7 @@ der Notfall, die Notfälle	ntɛmpɛ, nneɛma a egye ntɛmpɛ	A1 Lektion9
 der Krankenwagen, die Krankenwagen	ambulance no, ambulance ahorow no	A1 Lektion9
 die Sprechstunde, die Sprechstunden	nnɔnhwerew a wɔde susuw nsɛm ho, nnɔnhwerew a wɔde susuw nsɛm ho	A1 Lektion9
 die Spritze, die Spritzen	syringe no, syringe no	A1 Lektion9
-der Verband, der Verbände	fekuw no, a ɛfa fekuw ahorow ho	A1 Lektion9
+der Verband, die Verbände	fekuw no, a ɛfa fekuw ahorow ho	A1 Lektion9
 das Pflaster, die Pflaster	ɔkwan a wɔfa so fa so, ɔkwan a wɔfa so fa so	A1 Lektion9
 die Untersuchung, die Untersuchungen	nhwehwɛmu no, nhwehwɛmu ahorow no	A1 Lektion9
 müde	brɛ	A1 Lektion9

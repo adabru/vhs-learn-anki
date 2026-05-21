@@ -5,8 +5,8 @@
 #tags column:3
 Entschuldigung	Excuse me / Sorry	A1 Lektion1
 kommen (aus)	come (from)	A1 Lektion1
-Frau	Mrs. / woman (use "Mrs." for title, "woman" as noun)	A1 Lektion1
-Herr	Mr. / man (use "Mr." for title, "man" as noun)	A1 Lektion1
+Frau	Mrs.	A1 Lektion1
+Herr	Mr.	A1 Lektion1
 heißen	to be called / to be named	A1 Lektion1
 ich	I	A1 Lektion1
 der Name, die Namen	the name, the names	A1 Lektion1
@@ -67,7 +67,7 @@ der Vater, die Väter	the father, the fathers	A1 Lektion2
 die Mutter, die Mütter	the mother, the mothers	A1 Lektion2
 die Schwester, die Schwestern	the sister, the sisters	A1 Lektion2
 der Bruder, die Brüder	the brother, the brothers	A1 Lektion2
-mein, meine	my (masc./neut./plural), my (fem./plural)	(simple: my)	A1 Lektion2
+mein, meine	my (masc./neut./plural), my (fem./plural)	A1 Lektion2
 dein, deine	your (informal)	A1 Lektion2
 Ihr, Ihre	your (formal)	A1 Lektion2
 verheiratet	married	A1 Lektion2
@@ -140,7 +140,7 @@ falsch	wrong / incorrect	A1 Lektion3
 der Satz, die Sätze	the sentence, the sentences	A1 Lektion3
 einen Deutschkurs machen	take a German course	A1 Lektion3
 nett	nice / kind	A1 Lektion3
-fragen	to ask / questions (noun: Fragen = questions)	A1 Lektion3
+fragen	to ask	A1 Lektion3
 antworten	to answer	A1 Lektion3
 der Montag	Monday	A1 Lektion3
 der Dienstag	Tuesday	A1 Lektion3
@@ -151,7 +151,7 @@ der Samstag	Saturday	A1 Lektion3
 der Sonntag	Sunday	A1 Lektion3
 gestern	yesterday	A1 Lektion3
 heute	today	A1 Lektion3
-morgen	tomorrow / morning (context: "morgen" = tomorrow; "der Morgen" = the morning)	A1 Lektion3
+morgen	tomorrow	A1 Lektion3
 die Brille, die Brillen	the glasses, the glasses	A1 Lektion3
 die Tür, die Türen	the door, the doors	A1 Lektion3
 das Wörterbuch, die Wörterbücher	the dictionary, the dictionaries	A1 Lektion3

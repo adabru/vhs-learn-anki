@@ -77,6 +77,7 @@ target_languages = [Locale(code="ak"), Locale(code="en")]
 def main():
     vocabulary_path = cache_dir / "vocab_list.json"
     card_files = list(cards_dir.glob("vhs-learn_A1_*.txt"))
+    debug_path = cache_dir / "debug_vocab_list.json"
 
     if len(card_files) > 0:
         vocabulary = VocabularyTable(entries={})
@@ -100,6 +101,9 @@ def main():
     for target_locale in target_languages:
         card_file = cards_dir / f"vhs-learn_A1_{target_locale.code}.txt"
         serialize_anki(vocabulary, target_locale, card_file)
+
+    # save updated vocabulary list to cache
+    vocabulary.serialize(debug_path)
 
     print("Done!")
 
