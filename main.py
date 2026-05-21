@@ -71,7 +71,7 @@ def add_missing_translations(
 cache_dir = Path(".cache")
 cards_dir = Path("cards")
 cache_dir.mkdir(exist_ok=True)
-target_languages = [Locale(code="ak")]
+target_languages = [Locale(code="ak"), Locale(code="en")]
 
 
 def main():
@@ -94,7 +94,7 @@ def main():
         vocabulary.serialize(vocabulary_path)
 
     # add missing translations using Google Translate API
-    add_missing_translations(vocabulary, [Locale(code="ak")])
+    add_missing_translations(vocabulary, target_languages)
 
     # update Anki decks with new translations
     for target_locale in target_languages:

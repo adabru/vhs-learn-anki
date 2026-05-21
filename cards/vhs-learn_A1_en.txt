@@ -1,0 +1,583 @@
+#notetype:Basic (and reversed card)
+#deck:vhs-learn A1
+#separator:tab
+#html:true
+#tags column:3
+Entschuldigung	Excuse me / Sorry	A1 Lektion1
+kommen (aus)	come (from)	A1 Lektion1
+Frau	Mrs. / woman (use "Mrs." for title, "woman" as noun)	A1 Lektion1
+Herr	Mr. / man (use "Mr." for title, "man" as noun)	A1 Lektion1
+heißen	to be called / to be named	A1 Lektion1
+ich	I	A1 Lektion1
+der Name, die Namen	the name, the names	A1 Lektion1
+das Land, die Länder	the country, the countries	A1 Lektion1
+Deutschland	Germany	A1 Lektion1
+die Türkei	Turkey	A1 Lektion1
+Syrien	Syria	A1 Lektion1
+Polen	Poland	A1 Lektion1
+Bulgarien	Bulgaria	A1 Lektion1
+Spanien	Spain	A1 Lektion1
+Italien	Italy	A1 Lektion1
+Griechenland	Greece	A1 Lektion1
+Russland	Russia	A1 Lektion1
+Afghanistan	Afghanistan	A1 Lektion1
+der Irak	Iraq	A1 Lektion1
+Eritrea	Eritrea	A1 Lektion1
+die Ukraine	Ukraine	A1 Lektion1
+der Iran	Iran	A1 Lektion1
+du / Sie	you (informal singular) / you (formal)	A1 Lektion1
+gut	good	A1 Lektion1
+sehr gut	very good	A1 Lektion1
+schlecht	bad	A1 Lektion1
+super	great / fantastic	A1 Lektion1
+es geht	so-so / I'm okay	A1 Lektion1
+nicht so gut	not so good	A1 Lektion1
+auch	also / too	A1 Lektion1
+danke	thanks / thank you	A1 Lektion1
+die Sprache, die Sprachen	the language, the languages	A1 Lektion1
+sprechen	to speak	A1 Lektion1
+Deutsch	German	A1 Lektion1
+Türkisch	Turkish	A1 Lektion1
+Englisch	English	A1 Lektion1
+Dari	Dari	A1 Lektion1
+Polnisch	Polish	A1 Lektion1
+Spanisch	Spanish	A1 Lektion1
+Italienisch	Italian	A1 Lektion1
+Russisch	Russian	A1 Lektion1
+Arabisch	Arabic	A1 Lektion1
+Paschtu	Pashto	A1 Lektion1
+ein bisschen	a little (bit)	A1 Lektion1
+ja / nein	yes / no	A1 Lektion1
+Hallo	hello	A1 Lektion1
+Tschüss	bye	A1 Lektion1
+die Familie, die Familien	the family, the families	A1 Lektion2
+das Kind, die Kinder	the child, the children	A1 Lektion2
+haben (ich habe; du hast; er/sie/es hat; Sie haben)	have (I have; you have; he/she/it has; you (formal) have)	A1 Lektion2
+wir	we	A1 Lektion2
+ihr	you (plural, informal)	A1 Lektion2
+er	he	A1 Lektion2
+sie	she / they (context-dependent)	A1 Lektion2
+sein (ich bin; du bist; er/sie/es ist; Sie sind)	to be (I am; you are; he/she/it is; you (formal) are)	A1 Lektion2
+der Mann, die Männer	the man, the men	A1 Lektion2
+die Frau, die Frauen	the woman, the women	A1 Lektion2
+der Sohn, die Söhne	the son, the sons	A1 Lektion2
+die Tochter, die Töchter	the daughter, the daughters	A1 Lektion2
+die Eltern	the parents	A1 Lektion2
+der Vater, die Väter	the father, the fathers	A1 Lektion2
+die Mutter, die Mütter	the mother, the mothers	A1 Lektion2
+die Schwester, die Schwestern	the sister, the sisters	A1 Lektion2
+der Bruder, die Brüder	the brother, the brothers	A1 Lektion2
+mein, meine	my (masc./neut./plural), my (fem./plural)	(simple: my)	A1 Lektion2
+dein, deine	your (informal)	A1 Lektion2
+Ihr, Ihre	your (formal)	A1 Lektion2
+verheiratet	married	A1 Lektion2
+ledig	single	A1 Lektion2
+eins	one	A1 Lektion2
+zwei	two	A1 Lektion2
+drei	three	A1 Lektion2
+fünf	five	A1 Lektion2
+sechs	six	A1 Lektion2
+sieben	seven	A1 Lektion2
+neun	nine	A1 Lektion2
+zehn	ten	A1 Lektion2
+zwölf	twelve	A1 Lektion2
+sechzehn	sixteen	A1 Lektion2
+siebzehn	seventeen	A1 Lektion2
+zwanzig	twenty	A1 Lektion2
+wohnen (in)	live (in)	A1 Lektion2
+geschieden	divorced	A1 Lektion2
+der Vorname, die Vornamen	the first name, the first names	A1 Lektion2
+die Großmutter (Oma), die Großmütter (Omas)	the grandmother (grandma), the grandmothers (grandmas)	A1 Lektion2
+der Großvater (Opa), die Großväter (Opas)	the grandfather (grandpa), the grandfathers (grandpas)	A1 Lektion2
+die Tante, die Tanten	the aunt, the aunts	A1 Lektion2
+der Onkel, die Onkel	the uncle, the uncles	A1 Lektion2
+der Cousin, die Cousins	the (male) cousin, the cousins	A1 Lektion2
+die Cousine, die Cousinen	the (female) cousin, the cousins	A1 Lektion2
+der Familienname, die Familiennamen / der Nachname, die Nachnamen	the family name / the last name, the family names / the last names	A1 Lektion2
+der Familienstand	marital status	A1 Lektion2
+die Straße, die Straßen	the street, the streets	A1 Lektion2
+die Hausnummer, die Hausnummern	the house number, the house numbers	A1 Lektion2
+die Stadt, die Städte	the city, the cities	A1 Lektion2
+die Postleitzahl (PLZ), die Postleitzahlen	the postal code (zip code), the postal codes	A1 Lektion2
+die Telefonnummer, die Telefonnummern	the telephone number, the telephone numbers	A1 Lektion2
+einundzwanzig	twenty-one	A1 Lektion2
+dreißig	thirty	A1 Lektion2
+siebzig	seventy	A1 Lektion2
+hundert	hundred / one hundred	A1 Lektion2
+die Adresse, die Adressen	the address, the addresses	A1 Lektion2
+das Alter	age / the age	A1 Lektion2
+der Geburtsort	place of birth	A1 Lektion2
+der Wohnort, die Wohnorte	place of residence, places of residence	A1 Lektion2
+der Stuhl, die Stühle	the chair, the chairs	A1 Lektion3
+der Stift, die Stifte	the pen, the pens	A1 Lektion3
+das Buch, die Bücher	the book, the books	A1 Lektion3
+der Computer, die Computer	the computer, the computers	A1 Lektion3
+die Maus, die Mäuse	the mouse, the mice	A1 Lektion3
+die Tastatur, die Tastaturen	the keyboard, the keyboards	A1 Lektion3
+der Bildschirm, die Bildschirme	the screen / monitor, the screens / monitors	A1 Lektion3
+das Handy, die Handys	the mobile phone / cell phone, the mobile phones / cell phones	A1 Lektion3
+die Tasche, die Taschen	the bag, the bags	A1 Lektion3
+die E-Mail, die E-Mails	the email, the emails	A1 Lektion3
+die Musik	music	A1 Lektion3
+lesen	to read	A1 Lektion3
+schreiben	to write	A1 Lektion3
+hören	to listen / hear	A1 Lektion3
+lernen	to learn / study	A1 Lektion3
+der Lehrer, die Lehrerin	the (male) teacher / the (female) teacher	A1 Lektion3
+das Tablet, die Tablets	the tablet, the tablets	A1 Lektion3
+der Laptop, die Laptops	the laptop, the laptops	A1 Lektion3
+der Kuli, die Kulis	the ballpoint pen / pen, the pens	A1 Lektion3
+die Übung, die Übungen	the exercise, the exercises	A1 Lektion3
+neu	new	A1 Lektion3
+schön	beautiful / nice	A1 Lektion3
+groß	big / large / tall (context-dependent)	A1 Lektion3
+klein	small / short (context-dependent)	A1 Lektion3
+interessant	interesting	A1 Lektion3
+einfach	easy / simple	A1 Lektion3
+schwierig	difficult	A1 Lektion3
+richtig	correct	A1 Lektion3
+falsch	wrong / incorrect	A1 Lektion3
+der Satz, die Sätze	the sentence, the sentences	A1 Lektion3
+einen Deutschkurs machen	take a German course	A1 Lektion3
+nett	nice / kind	A1 Lektion3
+fragen	to ask / questions (noun: Fragen = questions)	A1 Lektion3
+antworten	to answer	A1 Lektion3
+der Montag	Monday	A1 Lektion3
+der Dienstag	Tuesday	A1 Lektion3
+der Mittwoch	Wednesday	A1 Lektion3
+der Donnerstag	Thursday	A1 Lektion3
+der Freitag	Friday	A1 Lektion3
+der Samstag	Saturday	A1 Lektion3
+der Sonntag	Sunday	A1 Lektion3
+gestern	yesterday	A1 Lektion3
+heute	today	A1 Lektion3
+morgen	tomorrow / morning (context: "morgen" = tomorrow; "der Morgen" = the morning)	A1 Lektion3
+die Brille, die Brillen	the glasses, the glasses	A1 Lektion3
+die Tür, die Türen	the door, the doors	A1 Lektion3
+das Wörterbuch, die Wörterbücher	the dictionary, the dictionaries	A1 Lektion3
+das Gemüse	vegetables / the vegetables	A1 Lektion4
+der Salat, die Salate	the salad / lettuce, the salads / lettuces	A1 Lektion4
+das Fleisch	meat	A1 Lektion4
+die Wurst, die Würste	the sausage, the sausages	A1 Lektion4
+das Obst	fruit / the fruit	A1 Lektion4
+die Milch	milk	A1 Lektion4
+das Wasser	water	A1 Lektion4
+der Saft, die Säfte	the juice, the juices	A1 Lektion4
+der Fisch, die Fische	the fish, the fishes / fish (plural often "fish")	A1 Lektion4
+der Kuchen, die Kuchen	the cake, the cakes	A1 Lektion4
+das Eis	ice cream	A1 Lektion4
+das Schweinefleisch	pork	A1 Lektion4
+der Tee, die Tees	the tea, the teas	A1 Lektion4
+der Joghurt, die Joghurts	the yogurt, the yogurts	A1 Lektion4
+der Reis	rice	A1 Lektion4
+das Brot, die Brote	the bread, the breads / loaves	A1 Lektion4
+das Brötchen, die Brötchen	the bread roll / bun, the rolls / buns	A1 Lektion4
+der Kaffee, die Kaffees	the coffee, the coffees	A1 Lektion4
+der Käse	cheese	A1 Lektion4
+das Hähnchen, die Hähnchen	the chicken (meat) / the chickens (animals)	A1 Lektion4
+mögen (ich mag; du magst; er/sie/es mag; Sie mögen)	to like (I like; you like; he/she/it likes; you (formal) like)	A1 Lektion4
+essen (ich esse; du isst; er/sie/es isst; Sie essen)	to eat (I eat; you eat; he/she/it eats; you (formal) eat)	A1 Lektion4
+trinken	to drink	A1 Lektion4
+der Apfel, die Äpfel	the apple, the apples	A1 Lektion4
+die Banane, die Bananen	the banana, the bananas	A1 Lektion4
+das Ei, die Eier	the egg, the eggs	A1 Lektion4
+die Gurke, die Gurken	the cucumber, the cucumbers	A1 Lektion4
+das Getränk, die Getränke	the drink / beverage, the drinks / beverages	A1 Lektion4
+der Paprika, die Paprika	the bell pepper / pepper, the peppers	A1 Lektion4
+die Nudel, die Nudeln	the noodle, the noodles / pasta	A1 Lektion4
+die Möhre, die Möhren	the carrot, the carrots	A1 Lektion4
+die Tomate, die Tomaten	the tomato, the tomatoes	A1 Lektion4
+die Zwiebel, die Zwiebeln	the onion, the onions	A1 Lektion4
+brauchen	to need	A1 Lektion4
+kaufen	to buy	A1 Lektion4
+kochen	to cook	A1 Lektion4
+das Kilo, die Kilos	the kilo, the kilos	A1 Lektion4
+der Liter, die Liter	the liter, the liters	A1 Lektion4
+das Stück, die Stücke	the piece, the pieces	A1 Lektion4
+die Tüte, die Tüten	the (paper/plastic) bag, the bags	A1 Lektion4
+die Flasche, die Flaschen	the bottle, the bottles	A1 Lektion4
+das Glas, die Gläser	the glass, the glasses (drinking glasses)	A1 Lektion4
+der Supermarkt, die Supermärkte	the supermarket, the supermarkets	A1 Lektion4
+der Euro, die Euro	the euro, the euros	A1 Lektion4
+der Cent, die Cents	the cent, the cents	A1 Lektion4
+kosten	to cost	A1 Lektion4
+der Preis, die Preise	the price, the prices	A1 Lektion4
+das Mittagessen	lunch	A1 Lektion4
+das Abendessen	dinner / supper	A1 Lektion4
+das Frühstück	breakfast	A1 Lektion4
+die Marmelade, die Marmeladen	the jam, the jams	A1 Lektion4
+süß	sweet	A1 Lektion4
+sauer	sour	A1 Lektion4
+salzig	salty	A1 Lektion4
+scharf	spicy	A1 Lektion4
+der Zucker	sugar	A1 Lektion4
+der Tag, die Tage	the day, the days	A1 Lektion5
+der Morgen, die Morgen	the morning, the mornings	A1 Lektion5
+der Vormittag, die Vormittage	the (late) morning, the late mornings / forenoon(s)	A1 Lektion5
+der Mittag, die Mittage	midday / noon, the middays	A1 Lektion5
+der Nachmittag, die Nachmittage	the afternoon, the afternoons	A1 Lektion5
+der Abend, die Abende	the evening, the evenings	A1 Lektion5
+die Nacht, die Nächte	the night, the nights	A1 Lektion5
+frühstücken	to have breakfast	A1 Lektion5
+duschen	to shower	A1 Lektion5
+schlafen	to sleep	A1 Lektion5
+arbeiten	to work	A1 Lektion5
+die Arbeit	work / the job	A1 Lektion5
+die Hausaufgaben machen	to do (one's) homework	A1 Lektion5
+telefonieren	to make a phone call / to telephone	A1 Lektion5
+Fußball spielen	to play soccer / football	A1 Lektion5
+Sport machen	to do sports / exercise	A1 Lektion5
+Musik hören	to listen to music	A1 Lektion5
+putzen	to clean	A1 Lektion5
+tanzen	to dance	A1 Lektion5
+Gitarre spielen	to play guitar	A1 Lektion5
+treffen (ich treffe; du triffst; er/sie/es trifft; Sie treffen)	to meet (I meet; you meet; he/she/it meets; you (formal) meet)	A1 Lektion5
+aufstehen	to get up / stand up (context: get out of bed)	A1 Lektion5
+fernsehen	to watch TV / to watch television	A1 Lektion5
+einkaufen	to go shopping / shopping	A1 Lektion5
+aufräumen	to tidy up / clean up	A1 Lektion5
+vorlesen	to read aloud	A1 Lektion5
+anrufen	to call (on the phone)	A1 Lektion5
+abholen	to pick up / collect	A1 Lektion5
+anfangen (ich fange an; du fängst an; er/sie/es fängt an; Sie fangen an)	to begin / to start (I begin; you begin; he/she/it begins; you (formal) begin)	A1 Lektion5
+früh	early	A1 Lektion5
+spät	late	A1 Lektion5
+die Stunde, die Stunden	the hour, the hours / lesson, lessons (context-dependent)	A1 Lektion5
+die Pause, die Pausen	the break, the breaks	A1 Lektion5
+das Wochenende, die Wochenenden	the weekend, the weekends	A1 Lektion5
+meistens	mostly / usually	A1 Lektion5
+immer	always	A1 Lektion5
+oft	often	A1 Lektion5
+manchmal	sometimes	A1 Lektion5
+selten	rarely	A1 Lektion5
+nie	never	A1 Lektion5
+mitkommen	to come along / come with	A1 Lektion5
+gehen	to go	A1 Lektion5
+die Wohnung, die Wohnungen	the apartment, the apartments	A1 Lektion6
+die Küche, die Küchen	the kitchen, the kitchens	A1 Lektion6
+der Balkon, die Balkone	the balcony, the balconies	A1 Lektion6
+das Badezimmer, das Bad	the bathroom, the bathrooms / the bath	A1 Lektion6
+hell	bright / light (in color)	A1 Lektion6
+das Fenster, die Fenster	the window, the windows	A1 Lektion6
+das Wohnzimmer	the living room	A1 Lektion6
+das Schlafzimmer	the bedroom	A1 Lektion6
+das Sofa, die Sofas	the sofa / couch, the sofas / couches	A1 Lektion6
+das Kinderzimmer	the children's room / kid's room	A1 Lektion6
+der Flur, die Flure	the hallway, the hallways	A1 Lektion6
+das Haus, die Häuser	the house, the houses	A1 Lektion6
+die Garage, die Garagen	the garage, the garages	A1 Lektion6
+der Garten, die Gärten	the garden, the gardens / yard, yards	A1 Lektion6
+das Zimmer, die Zimmer	the room, the rooms	A1 Lektion6
+zweihundert	two hundred	A1 Lektion6
+tausend	thousand / one thousand	A1 Lektion6
+zweitausend	two thousand	A1 Lektion6
+das Geld	money	A1 Lektion6
+das Auto, die Autos	the car, the cars	A1 Lektion6
+das Erdgeschoss (EG)	the ground floor	A1 Lektion6
+der Keller	the cellar / basement	A1 Lektion6
+die Nebenkosten (NK)	additional costs / utilities	A1 Lektion6
+das Stadtzentrum, die Stadtzentren / die Stadtmitte	the city center, the city centers / the city center (alternate term)	A1 Lektion6
+die Heizung, die Heizungen	the heating / heater(s)	A1 Lektion6
+die Kaution, die Kautionen	the deposit, the deposits (rental deposit)	A1 Lektion6
+die Monatsmiete, die Monatsmieten (MM)	the monthly rent, the monthly rents	A1 Lektion6
+der Strom	electricity / power	A1 Lektion6
+möbliert	furnished	A1 Lektion6
+dunkel	dark	A1 Lektion6
+laut	noisy / loud	A1 Lektion6
+ruhig	quiet	A1 Lektion6
+billig	cheap / inexpensive	A1 Lektion6
+die Wohnungsanzeige, die Wohnungsanzeigen	the apartment advertisement/listing, the apartment advertisements/listings	A1 Lektion6
+gemütlich	cozy / comfortable	A1 Lektion6
+der Vermieter, die Vermieterin	the landlord (male), the landlady (female)	A1 Lektion6
+die Dusche, die Duschen	the shower, the showers	A1 Lektion6
+mieten	to rent	A1 Lektion6
+der Tisch, die Tische	the table, the tables	A1 Lektion6
+der Schrank, die Schränke	the cupboard / wardrobe / cabinet, the cupboards / wardrobes / cabinets	A1 Lektion6
+der Teppich, die Teppiche	the carpet / rug, the carpets / rugs	A1 Lektion6
+das Bett, die Betten	the bed, the beds	A1 Lektion6
+der Sessel, die Sessel	the armchair, the armchairs	A1 Lektion6
+das Regal, die Regale	the shelf, the shelves	A1 Lektion6
+der Fernseher, die Fernseher	the TV / television, the TVs / televisions	A1 Lektion6
+der Herd, die Herde	the stove / cooker, the stoves (Note: "Herde" plural here means stoves)	A1 Lektion6
+der Kühlschrank, die Kühlschränke	the refrigerator, the refrigerators / fridge(s)	A1 Lektion6
+die Waschmaschine, die Waschmaschinen	the washing machine, the washing machines	A1 Lektion6
+die Spülmaschine, die Spülmaschinen	the dishwasher, the dishwashers	A1 Lektion6
+das Möbel, die Möbel	the piece of furniture / furniture, the furniture	A1 Lektion6
+schmal	narrow	A1 Lektion6
+breit	wide / broad (prefer wide)	A1 Lektion6
+hässlich	ugly	A1 Lektion6
+das Geschirr spülen	wash the dishes / do the dishes	A1 Lektion6
+Staub saugen	vacuum (to vacuum / vacuum the floor)	A1 Lektion6
+waschen	wash / do the washing / launder	A1 Lektion6
+der Parkplatz, die Parkplätze	the parking lot / parking space(s) (or parking lot, parking lots)	A1 Lektion7
+der Bus, die Busse	the bus, the buses	A1 Lektion7
+die Linie, die Linien	the line, the lines (bus/tram line)	A1 Lektion7
+die U-Bahn, die U-Bahnen	the subway/underground, the subways	A1 Lektion7
+die Straßenbahn, die Straßenbahnen	the tram, the trams	A1 Lektion7
+das Fahrrad, die Fahrräder (Kurzform: das Rad)	the bicycle, the bicycles (short form: bike)	A1 Lektion7
+der Zug, die Züge	the train, the trains	A1 Lektion7
+zu Fuß gehen	to walk / go on foot	A1 Lektion7
+das Verkehrsmittel, die Verkehrsmittel	the means of transport / the transport(s)	A1 Lektion7
+fahren	to drive / to ride (vehicle context)	A1 Lektion7
+ankommen	to arrive	A1 Lektion7
+der Bahnhof, die Bahnhöfe	the train station, the train stations	A1 Lektion7
+die Haltestelle, die Haltestellen	the stop (bus/tram), the stops	A1 Lektion7
+der Fahrplan, die Fahrpläne	the timetable / schedule, the timetables	A1 Lektion7
+die Apotheke, die Apotheken	the pharmacy / chemist, the pharmacies	A1 Lektion7
+suchen	to look for / search	A1 Lektion7
+die Bücherei	the library (small/public lending library)	A1 Lektion7
+das Rathaus	the town hall / city hall	A1 Lektion7
+die Bank, die Banken	the bank, the banks	A1 Lektion7
+die Schule, die Schulen	the school, the schools	A1 Lektion7
+der Park, die Parks	the park, the parks	A1 Lektion7
+die Polizei	the police	A1 Lektion7
+das Museum, die Museen	the museum, the museums	A1 Lektion7
+der Friseur, die Friseure	the hairdresser / barber, the hairdressers	A1 Lektion7
+das Krankenhaus, die Krankenhäuser	the hospital, the hospitals	A1 Lektion7
+die Kirche, die Kirchen	the church, the churches	A1 Lektion7
+die Bäckerei, die Bäckereien	the bakery, the bakeries	A1 Lektion7
+schwimmen	to swim	A1 Lektion7
+der Spielplatz, die Spielplätze	the playground, the playgrounds	A1 Lektion7
+das W-Lan	the Wi‑Fi / wireless LAN	A1 Lektion7
+das Taxi, die Taxis	the taxi, the taxis	A1 Lektion7
+der Norden	the north	A1 Lektion7
+der Osten	the east	A1 Lektion7
+der Süden	the south	A1 Lektion7
+der Westen	the west	A1 Lektion7
+aussteigen	to get off / disembark	A1 Lektion7
+einsteigen	to get on / board	A1 Lektion7
+rechts	right	A1 Lektion7
+links	left	A1 Lektion7
+geradeaus	straight ahead / straight on	A1 Lektion7
+die Kreuzung, die Kreuzungen	the intersection / crossroads, the intersections	A1 Lektion7
+die Ampel, die Ampeln	the traffic light(s) / signal(s)	A1 Lektion7
+umsteigen	to change (trains/buses) / transfer	A1 Lektion7
+abbiegen	to turn (left/right)	A1 Lektion7
+holen	to fetch / get / pick up	A1 Lektion7
+die Fahrkarte, die Fahrkarten / das Ticket, die Tickets	the ticket, the tickets	A1 Lektion7
+der Schein, die Scheine	the banknote / bill, the banknotes / bills	A1 Lektion7
+die EC-Karte, die EC-Karten	the debit card, the debit cards (EC card)	A1 Lektion7
+die Münze, die Münzen	the coin, the coins	A1 Lektion7
+der Erwachsene, die Erwachsenen	the adult, the adults	A1 Lektion7
+die Verspätung, die Verspätungen	the delay, the delays	A1 Lektion7
+die Information, die Informationen	the information / info, the information items	A1 Lektion7
+die Toilette, die Toiletten	the toilet / restroom, the toilets	A1 Lektion7
+warten	to wait	A1 Lektion7
+der Beruf, die Berufe	the profession / occupation, the professions	A1 Lektion8
+der Krankenpfleger, die Krankenpflegerin	the (male) nurse, the (female) nurse	A1 Lektion8
+der Kellner, die Kellnerin	the waiter, the waitress	A1 Lektion8
+der Bankkaufmann, die Bankkauffrau	the bank clerk / banking clerk (m/f)	A1 Lektion8
+der Polizist, die Polizistin	the police officer (male/female)	A1 Lektion8
+der Student, die Studentin	the (university) student (m/f)	A1 Lektion8
+der Verkäufer, die Verkäuferin	the salesperson / shop assistant (m/f)	A1 Lektion8
+der Koch, die Köchin	the cook / chef (m/f)	A1 Lektion8
+der Arzt, die Ärztin	the doctor / physician (m/f)	A1 Lektion8
+servieren	to serve	A1 Lektion8
+der Kunde, die Kunden	the customer / client, the customers / clients	A1 Lektion8
+unterrichten	to teach	A1 Lektion8
+das Büro, die Büros	the office, the offices	A1 Lektion8
+der Bürokaufmann, die Bürokauffrau	the office clerk / administrative assistant (m/f)	A1 Lektion8
+der Ingenieur, die Ingenieurin	the engineer (m/f)	A1 Lektion8
+der Automechaniker, die Automechanikerin	the car mechanic (m/f)	A1 Lektion8
+das Hotel, die Hotels	the hotel, the hotels	A1 Lektion8
+backen	to bake	A1 Lektion8
+organisieren	to organize	A1 Lektion8
+reparieren	to repair / fix	A1 Lektion8
+schneiden	to cut	A1 Lektion8
+können (ich kann; du kannst; er/sie/es kann; Sie können)	can / to be able to (I can; you can; he/she/it can; you (formal) can)	A1 Lektion8
+singen	to sing	A1 Lektion8
+zu Hause bleiben	to stay at home	A1 Lektion8
+müssen (ich muss; du musst; er/sie/es muss; Sie müssen)	must / have to (I must/have to; you must/have to; etc.)	A1 Lektion8
+leise	quiet / quietly / soft (volume)	A1 Lektion8
+parken	to park	A1 Lektion8
+der Feierabend	end of the working day / after-work time	A1 Lektion8
+der Dienstplan, die Dienstpläne	the duty roster / shift schedule, the rosters	A1 Lektion8
+unterschreiben	to sign	A1 Lektion8
+der Schüler, die Schüler	the (school) pupil / student, the pupils/students	A1 Lektion8
+eine Ausbildung machen	to do vocational training / to train / to do an apprenticeship	A1 Lektion8
+die Aushilfe, die Aushilfen	the temporary help / part-time helper, the temp workers	A1 Lektion8
+Geld verdienen	to earn money	A1 Lektion8
+möchten (ich möchte; du möchtest; er/sie möchte; Sie möchten)	would like (I would like; you would like; etc.)	A1 Lektion8
+der Schuh, die Schuhe	the shoe, the shoes	A1 Lektion8
+die Arbeitszeit, die Arbeitszeiten	the working hours / hours of work, the working hours (pl.)	A1 Lektion8
+freundlich	friendly	A1 Lektion8
+flexibel	flexible	A1 Lektion8
+pünktlich	punctual / on time	A1 Lektion8
+frei haben	to have time off / be free	A1 Lektion8
+die Stellenanzeige, die Stellenanzeigen	the job advertisement / job posting, the job advertisements	A1 Lektion8
+krank	ill / sick	A1 Lektion9
+der Hals, die Hälse	the throat / neck, the throats / necks (context: "Hals" can be throat or neck)	A1 Lektion9
+der Husten	the cough	A1 Lektion9
+der Schnupfen	the (head) cold / runny nose	A1 Lektion9
+der Mund, die Münder	the mouth, the mouths	A1 Lektion9
+entzündet	inflamed / infected	A1 Lektion9
+das Fieber	the fever	A1 Lektion9
+das Rezept, die Rezepte	the prescription / recipe, the prescriptions / recipes (context-dependent)	A1 Lektion9
+das Medikament, die Medikamente	the medication / medicine, the medications	A1 Lektion9
+der Kopf, die Köpfe	the head, the heads	A1 Lektion9
+der Bauch, die Bäuche	the stomach / belly, the stomachs / bellies	A1 Lektion9
+das Bein, die Beine	the leg, the legs	A1 Lektion9
+der Fuß, die Füße	the foot, the feet	A1 Lektion9
+der Arm, die Arme	the arm, the arms	A1 Lektion9
+die Hand, die Hände	the hand, the hands	A1 Lektion9
+die Nase, die Nasen	the nose, the noses	A1 Lektion9
+das Auge, die Augen	the eye, the eyes	A1 Lektion9
+das Ohr, die Ohren	the ear, the ears	A1 Lektion9
+der Zahn, die Zähne	the tooth, the teeth	A1 Lektion9
+das Haar, die Haare	the hair, the hairs / hair (uncountable)	A1 Lektion9
+das Gesicht, die Gesichter	the face, the faces	A1 Lektion9
+der Rücken, die Rücken	the back, the backs	A1 Lektion9
+der Patient, die Patientin	the (male) patient / the (female) patient (note: singular/plural forms differ)	A1 Lektion9
+der Finger, die Finger	the finger, the fingers	A1 Lektion9
+die Erkältung, die Erkältungen	the cold (illness), the colds	A1 Lektion9
+schwanger	pregnant	A1 Lektion9
+erkältet	to have a cold / with a cold (adjective)	A1 Lektion9
+die Grippe, die Grippen	the flu / influenza, the flus (plural usually "Grippen" but commonly "die Grippe" singular)	A1 Lektion9
+gesund	healthy	A1 Lektion9
+die Tablette, die Tabletten	the tablet / pill, the tablets / pills	A1 Lektion9
+der Hausarzt, die Hausärzte	the family doctor / GP, the family doctors	A1 Lektion9
+die Praxis, die Praxen	the (medical) practice / clinic, the practices	A1 Lektion9
+die Versichertenkarte, die Versichertenkarten	the insurance card, the insurance cards	A1 Lektion9
+die Krankenversicherung, die Krankenversicherungen	health insurance, the health insurances	A1 Lektion9
+die Krankheit, die Krankheiten	the illness / disease, the illnesses / diseases	A1 Lektion9
+verletzt	injured / hurt	A1 Lektion9
+der Notfall, die Notfälle	the emergency, the emergencies	A1 Lektion9
+der Krankenwagen, die Krankenwagen	the ambulance, the ambulances	A1 Lektion9
+die Sprechstunde, die Sprechstunden	consultation hours / office hours, the consultation hours	A1 Lektion9
+die Spritze, die Spritzen	the injection / syringe, the injections / syringes	A1 Lektion9
+der Verband, die Verbände	the bandage / dressing, the bandages	A1 Lektion9
+das Pflaster, die Pflaster	the plaster / adhesive bandage, the plasters / band-aids	A1 Lektion9
+die Untersuchung, die Untersuchungen	the examination / check-up, the examinations	A1 Lektion9
+müde	tired	A1 Lektion9
+der Körper, die Körper	the body, the bodies	A1 Lektion9
+der Schmerz, die Schmerzen	the pain, the pains / pains (usually plural in German)	A1 Lektion9
+die Krankschreibung, die Krankschreibungen / das Attest, die Atteste	the sick note / medical certificate, the notes / certificates	A1 Lektion9
+der Arbeitgeber, die Arbeitgeber	the employer, the employers	A1 Lektion9
+die Entschuldigung, die Entschuldigungen	the apology / excuse, the apologies / excuses	A1 Lektion9
+schicken	to send	A1 Lektion9
+der Unfall, die Unfälle	the accident, the accidents	A1 Lektion9
+der Notarzt, die Notärzte	the emergency doctor, the emergency doctors	A1 Lektion9
+der Koffer, die Koffer	the suitcase, the suitcases	A1 Lektion10
+die Badehose, die Badehosen	the swim trunks / swimming shorts, the swim trunks	A1 Lektion10
+der Badeanzug, die Badeanzüge	the swimsuit, the swimsuits	A1 Lektion10
+liegen	to lie (be located / lie down)	A1 Lektion10
+packen	to pack	A1 Lektion10
+stellen	to put / place (upright)	A1 Lektion10
+sehen	to see	A1 Lektion10
+legen	to lay / place (down)	A1 Lektion10
+der Urlaub, die Urlaube	the vacation / holiday, the vacations / holidays	A1 Lektion10
+vergessen	to forget	A1 Lektion10
+losfahren	to set off / drive off / depart (by vehicle)	A1 Lektion10
+besuchen	to visit	A1 Lektion10
+finden	to find	A1 Lektion10
+einen Spaziergang machen	to take a walk / go for a walk	A1 Lektion10
+Fußball gucken	to watch football / to watch soccer	A1 Lektion10
+der Zoo, die Zoos	the zoo, the zoos	A1 Lektion10
+fotografieren	to photograph / take photos	A1 Lektion10
+bleiben	to stay / remain	A1 Lektion10
+studieren	to study (at university)	A1 Lektion10
+das Geburtsdatum	the date of birth	A1 Lektion10
+Spaß haben	to have fun	A1 Lektion10
+Ski fahren	to ski / skiing	A1 Lektion10
+stressig	stressful	A1 Lektion10
+das Kleid, die Kleider	the dress, the dresses	A1 Lektion11
+die Hose, die Hosen	the trousers / pants, the trousers / pants	A1 Lektion11
+die Jacke, die Jacken	the jacket, the jackets	A1 Lektion11
+der Rock, die Röcke	the skirt, the skirts	A1 Lektion11
+das T-Shirt, die T-Shirts	the T‑shirt, the T‑shirts	A1 Lektion11
+der Pullover, die Pullover	the sweater / jumper, the sweaters	A1 Lektion11
+die Bluse, die Blusen	the blouse, the blouses	A1 Lektion11
+das Hemd, die Hemden	the shirt, the shirts	A1 Lektion11
+der Mantel, die Mäntel	the coat, the coats	A1 Lektion11
+sportlich	sporty / athletic	A1 Lektion11
+elegant	elegant	A1 Lektion11
+die Farbe, die Farben	the color, the colors	A1 Lektion11
+bunt	colorful / multicolored	A1 Lektion11
+blau	blue	A1 Lektion11
+der Gürtel, die Gürtel	the belt, the belts	A1 Lektion11
+rot	red	A1 Lektion11
+braun	brown	A1 Lektion11
+die Mütze, die Mützen	the cap / beanie, the caps / beanies	A1 Lektion11
+der Schal, die Schals	the scarf, the scarves	A1 Lektion11
+der Handschuh, die Handschuhe	the glove, the gloves	A1 Lektion11
+grün	green	A1 Lektion11
+weiß	white	A1 Lektion11
+schwarz	black	A1 Lektion11
+gelb	yellow	A1 Lektion11
+die Socke, die Socken	the sock, the socks	A1 Lektion11
+die Krawatte, die Krawatten	the tie, the ties	A1 Lektion11
+grau	gray / grey	A1 Lektion11
+der Stiefel, die Stiefel	the boot, the boots	A1 Lektion11
+das Kopftuch, die Kopftücher	the headscarf, the headscarves	A1 Lektion11
+tragen (ich trage; du trägst; er/sie/es trägt; Sie tragen)	to wear / to carry (context: clothing = wear)	A1 Lektion11
+anziehen	to put on / get dressed	A1 Lektion11
+bequem	comfortable	A1 Lektion11
+die Umkleidekabine, die Umkleidekabinen	the changing room / fitting room, the changing rooms	A1 Lektion11
+weit	wide / loose (clothing)	A1 Lektion11
+eng	tight / close-fitting	A1 Lektion11
+kurz	short	A1 Lektion11
+lang	long	A1 Lektion11
+unbequem	uncomfortable	A1 Lektion11
+günstig	inexpensive / good value	A1 Lektion11
+das Sonderangebot, die Sonderangebote	the special offer / sale item, the special offers	A1 Lektion11
+reduziert	reduced (price)	A1 Lektion11
+umtauschen	to exchange (return/exchange)	A1 Lektion11
+kaputt	broken	A1 Lektion11
+der Kassenbon, die Kassenbons	the receipt, the receipts	A1 Lektion11
+die Sache, die Sachen	the thing / item, the things / items	A1 Lektion11
+das Wetter	the weather	A1 Lektion12
+die Jahreszeit, die Jahreszeiten	the season, the seasons	A1 Lektion12
+sonnig	sunny	A1 Lektion12
+regnen	to rain	A1 Lektion12
+schneien	to snow	A1 Lektion12
+bewölkt	cloudy	A1 Lektion12
+heiß	hot	A1 Lektion12
+kalt	cold	A1 Lektion12
+windig	windy	A1 Lektion12
+die Sonne	the sun	A1 Lektion12
+scheinen	to shine / to seem (context: weather = shine)	A1 Lektion12
+die Temperatur, die Temperaturen	the temperature, the temperatures	A1 Lektion12
+der Regen	the rain	A1 Lektion12
+der Schnee	the snow	A1 Lektion12
+der Wind	the wind	A1 Lektion12
+die Wolke, die Wolken	the cloud, the clouds	A1 Lektion12
+der Frühling	spring	A1 Lektion12
+der Sommer	summer	A1 Lektion12
+der Herbst	autumn / fall	A1 Lektion12
+der Winter	winter	A1 Lektion12
+ein Picknick machen	to have a picnic	A1 Lektion12
+spazieren gehen	to go for a walk / stroll	A1 Lektion12
+wollen (ich will; du willst; er/sie/es will; Sie wollen)	to want (I want; you want; he/she/it wants; you (formal) want)	A1 Lektion12
+der See, die Seen	the lake, the lakes	A1 Lektion12
+einen Ausflug machen	to go on an excursion / day trip	A1 Lektion12
+das Foto, die Fotos	the photo, the photos	A1 Lektion12
+der Brief, die Briefe	the letter, the letters	A1 Lektion12
+der Monat, die Monate	the month, the months	A1 Lektion12
+der Januar	January	A1 Lektion12
+der Februar	February	A1 Lektion12
+der März	March	A1 Lektion12
+der April	April	A1 Lektion12
+der Mai	May	A1 Lektion12
+der Juni	June	A1 Lektion12
+der Juli	July	A1 Lektion12
+der August	August	A1 Lektion12
+der September	September	A1 Lektion12
+der Oktober	October	A1 Lektion12
+der November	November	A1 Lektion12
+der Dezember	December	A1 Lektion12
+heiraten	to marry / get married	A1 Lektion12
+das Geschenk, die Geschenke	the gift / present, the gifts / presents	A1 Lektion12
+der Geburtstag, die Geburtstage	the birthday, the birthdays	A1 Lektion12
+die Hochzeit, die Hochzeiten	the wedding, the weddings	A1 Lektion12
+Weihnachten	Christmas	A1 Lektion12
+Ostern	Easter	A1 Lektion12
+Silvester	New Year's Eve	A1 Lektion12
+der Feiertag, die Feiertage	the public holiday / holiday, the holidays	A1 Lektion12
+das Fest, die Feste / die Feier, die Feiern	the festival / celebration, the festivals / celebrations	A1 Lektion12
+das Datum	the date	A1 Lektion12
+die Einladung, die Einladungen	the invitation, the invitations	A1 Lektion12
+einladen (ich lade ein; du lädst ein; er/sie/es lädt ein; Sie laden ein)	to invite (I invite; you invite; etc.)	A1 Lektion12
+feiern	to celebrate	A1 Lektion12
+die Idee, die Ideen	the idea, the ideas	A1 Lektion12
+die Blume, die Blumen	the flower, the flowers	A1 Lektion12
+das Spielzeug, die Spielzeuge	the toy, the toys	A1 Lektion12
