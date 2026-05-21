@@ -1,13 +1,11 @@
-import json
 import time
-from dataclasses import asdict
 from pathlib import Path
 
 import requests
 
-from anki_serializer import serialize_anki
+from anki_serializer import deserialize_anki, serialize_anki
 from vhs_learn_serializer import deserialize_vhs_learn
-from vocabulary import VocabularyList
+from vocabulary import Locale, VocabularyItem, VocabularyTable
 
 
 def google_translate(text: str, source_lang: str, target_lang: str) -> str:
@@ -43,41 +41,65 @@ def google_translate(text: str, source_lang: str, target_lang: str) -> str:
     return text
 
 
-def translate_vocab_list(vocab_list: VocabularyList, output_path: Path) -> None:
+def add_missing_translations(
+    vocab_list: VocabularyTable, target_languages: list[Locale]
+) -> None:
     """Translate vocabulary items using a translation API."""
-    source_lang = "de"
-    target_lang = "ak"  # Twi is covered under Akan in Google Translate.
-
-    untranslated_list = [item for item in vocab_list.items if item.translation is None]
-    for i, item in enumerate(untranslated_list):
-        if item.translation is None:
-            print(f"Translating {i + 1}/{len(untranslated_list)} '{item.word}'...")
-            item.translation = google_translate(item.word, source_lang, target_lang)
-
-    with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(asdict(vocab_list), f, ensure_ascii=False, indent=2)
+    untranslated_count = 0
+    for run_id in ["count", "translate"]:
+        i = 0
+        for target_locale in target_languages:
+            target_lang = target_locale.code
+            for idx, translations in vocab_list.entries.items():
+                item = translations.get(Locale(code="de"))
+                assert item is not None, f"Missing German translation for entry {idx}"
+                if target_locale not in translations:
+                    i += 1
+                    if run_id == "translate":
+                        print(
+                            f"Translating {i}/{untranslated_count} '{item.text}' to {target_lang}..."
+                        )
+                        translation = google_translate(
+                            item.text, source_lang="de", target_lang=target_lang
+                        )
+                        vocab_list.entries[idx][target_locale] = VocabularyItem(
+                            text=translation, tags=item.tags
+                        )
+        untranslated_count = i
 
 
 cache_dir = Path(".cache")
+cards_dir = Path("cards")
 cache_dir.mkdir(exist_ok=True)
+target_languages = [Locale(code="ak")]
 
 
 def main():
-    anki_deck_path = cache_dir / "vhs_learn_A1.txt"
-    vocab_list_path = Path(".cache/vocab_list.json")
+    vocabulary_path = cache_dir / "vocab_list.json"
+    card_files = list(cards_dir.glob("vhs-learn_A1_*.txt"))
 
-    if not vocab_list_path.exists():
-        vocab_list = deserialize_vhs_learn()
-        vocab_list.serialize(vocab_list_path)
+    if len(card_files) > 0:
+        vocabulary = VocabularyTable(entries={})
+        # initialize vocabulary from existing/exported Anki decks if available
+        for card_file in card_files:
+            print(f"Loading existing Anki deck {card_file.name}...")
+            deck_vocab = deserialize_anki(card_file)
+            vocabulary.update(deck_vocab)
+    elif vocabulary_path.exists():
+        # otherwise, initialize vocabulary list from cached JSON file if available
+        vocabulary = VocabularyTable.deserialize(vocabulary_path)
     else:
-        vocab_list = VocabularyList.deserialize(vocab_list_path)
+        # otherwise, initialize vocabulary list from vhs-learn.de portal
+        vocabulary = deserialize_vhs_learn()
+        vocabulary.serialize(vocabulary_path)
 
-    if any(item.translation is None for item in vocab_list.items):
-        translate_vocab_list(vocab_list, vocab_list_path)
+    # add missing translations using Google Translate API
+    add_missing_translations(vocabulary, [Locale(code="ak")])
 
-    if not anki_deck_path.exists():
-        print("Creating Anki deck...")
-        serialize_anki(vocab_list, anki_deck_path)
+    # update Anki decks with new translations
+    for target_locale in target_languages:
+        card_file = cards_dir / f"vhs-learn_A1_{target_locale.code}.txt"
+        serialize_anki(vocabulary, target_locale, card_file)
 
     print("Done!")
 

@@ -5,7 +5,7 @@ from typing import List
 import pdfplumber
 import requests
 
-from vocabulary import VocabularyItem, VocabularyList
+from vocabulary import Locale, VocabularyItem, VocabularyTable
 
 cache_dir = Path(".cache")
 
@@ -31,20 +31,25 @@ def _extract_tables_from_pdf(pdf_path: Path, output_path: Path) -> None:
         json.dump(tables, f, ensure_ascii=False, indent=2)
 
 
-def _generate_vocab_list_from_tables(tables: List[List[List[str]]]) -> VocabularyList:
+def _generate_vocab_list_from_tables(
+    tables: List[List[List[str]]],
+) -> VocabularyTable:
     """Convert extracted tables to a list of vocabulary items."""
-    vocab = VocabularyList(items=[])
+    vocab = VocabularyTable(entries={})
+    id: int = 0
     for table in tables:
         # skip lecture name and empty row
         header = table[0][0].replace(" ", "").strip()
         for row in table[2:]:
-            vocab.items.append(
-                VocabularyItem(word=row[0], translation=None, tags=f"A1 {header}")
-            )
+            text_de = row[0].strip()
+            vocab.entries[id] = {
+                Locale(code="de"): VocabularyItem(text=row[0], tags=f"A1 {header}")
+            }
+            id += 1
     return vocab
 
 
-def deserialize_vhs_learn() -> VocabularyList:
+def deserialize_vhs_learn() -> VocabularyTable:
     pdf_path = Path(".cache/vocab.pdf")
     extracted_tables_path = Path(".cache/extracted_data.json")
 

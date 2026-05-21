@@ -1,3 +1,5 @@
+#notetype:Basic (and reversed card)
+#deck:vhs-learn A1
 #separator:tab
 #html:true
 #tags column:3
